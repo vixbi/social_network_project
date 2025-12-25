@@ -1,0 +1,3069 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-12-25">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="discipline" type="string" />
+      <attribute id="2" title="score" type="long" />
+    </attributes>
+    <nodes>
+      <node id="ivan_bukin_" label="ivan_bukin_">
+        <attvalues>
+          <attvalue for="0" value="Ivan BUKIN" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="4563" />
+        </attvalues>
+      </node>
+      <node id="evan_bates" label="evan_bates">
+        <attvalues>
+          <attvalue for="0" value="Evan BATES" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="10307" />
+        </attvalues>
+      </node>
+      <node id="yuzuruofficial_" label="yuzuruofficial_">
+        <attvalues>
+          <attvalue for="0" value="Yuzuru HANYU" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="9083" />
+        </attvalues>
+      </node>
+      <node id="kamilavalieva26" label="kamilavalieva26">
+        <attvalues>
+          <attvalue for="0" value="Kamila VALIEVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="500" />
+        </attvalues>
+      </node>
+      <node id="azagitova" label="azagitova">
+        <attvalues>
+          <attvalue for="0" value="Alina ZAGITOVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="5283" />
+        </attvalues>
+      </node>
+      <node id="_chaeyeon.kim" label="_chaeyeon.kim">
+        <attvalues>
+          <attvalue for="0" value="Chaeyeon KIM" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="4354" />
+        </attvalues>
+      </node>
+      <node id="petr_og" label="petr_og">
+        <attvalues>
+          <attvalue for="0" value="Petr GUMENNIK" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="599" />
+        </attvalues>
+      </node>
+      <node id="mikhail_shaidorov" label="mikhail_shaidorov">
+        <attvalues>
+          <attvalue for="0" value="Mikhail SHAIDOROV" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="4633" />
+        </attvalues>
+      </node>
+      <node id="liza_tuktik" label="liza_tuktik">
+        <attvalues>
+          <attvalue for="0" value="Elizaveta TUKTAMYSHEVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="1080" />
+        </attvalues>
+      </node>
+      <node id="dimakozlovski" label="dimakozlovski">
+        <attvalues>
+          <attvalue for="0" value="Dmitrii KOZLOVSKII" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="4756" />
+        </attvalues>
+      </node>
+      <node id="adam.siao" label="adam.siao">
+        <attvalues>
+          <attvalue for="0" value="Adam SIAO HIM FA" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="6669" />
+        </attvalues>
+      </node>
+      <node id="_kaganovskay_14" label="_kaganovskay_14">
+        <attvalues>
+          <attvalue for="0" value="Vasilisa KAGANOVSKAIA" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="pinzarrone_nina" label="pinzarrone_nina">
+        <attvalues>
+          <attvalue for="0" value="Nina PINZARRONE" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="3416" />
+        </attvalues>
+      </node>
+      <node id="alexshibutani" label="alexshibutani">
+        <attvalues>
+          <attvalue for="0" value="Alex SHIBUTANI" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="nikolajmemola" label="nikolajmemola">
+        <attvalues>
+          <attvalue for="0" value="Nikolaj MEMOLA" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="2886" />
+        </attvalues>
+      </node>
+      <node id="wenjingsui" label="wenjingsui">
+        <attvalues>
+          <attvalue for="0" value="Wenjing SUI" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="5160" />
+        </attvalues>
+      </node>
+      <node id="tim.dieck" label="tim.dieck">
+        <attvalues>
+          <attvalue for="0" value="Tim DIECK" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="1440" />
+        </attvalues>
+      </node>
+      <node id="evgeniy__semenenko" label="evgeniy__semenenko">
+        <attvalues>
+          <attvalue for="0" value="Evgeni SEMENENKO" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="1699" />
+        </attvalues>
+      </node>
+      <node id="georgy_kunitsa13" label="georgy_kunitsa13">
+        <attvalues>
+          <attvalue for="0" value="Georgy KUNITSA" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="nastia_ice" label="nastia_ice">
+        <attvalues>
+          <attvalue for="0" value="Anastasia MISHINA" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="3512" />
+        </attvalues>
+      </node>
+      <node id="loenahendrickx" label="loenahendrickx">
+        <attvalues>
+          <attvalue for="0" value="Loena HENDRICKX" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="7005" />
+        </attvalues>
+      </node>
+      <node id="mikhail_kolyada" label="mikhail_kolyada">
+        <attvalues>
+          <attvalue for="0" value="Mikhail KOLYADA" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="6953" />
+        </attvalues>
+      </node>
+      <node id="glebsmolkin7" label="glebsmolkin7">
+        <attvalues>
+          <attvalue for="0" value="Gleb SMOLKIN" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="2725" />
+        </attvalues>
+      </node>
+      <node id="ilia_quadg0d_malinin" label="ilia_quadg0d_malinin">
+        <attvalues>
+          <attvalue for="0" value="Ilia MALININ" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="4492" />
+        </attvalues>
+      </node>
+      <node id="thelilahjoshow" label="thelilahjoshow">
+        <attvalues>
+          <attvalue for="0" value="Lilah FEAR" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="8663" />
+        </attvalues>
+      </node>
+      <node id="maxim_nekrasov_" label="maxim_nekrasov_">
+        <attvalues>
+          <attvalue for="0" value="Maxim NEKRASOV" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="693" />
+        </attvalues>
+      </node>
+      <node id="anna__shcherbakova_" label="anna__shcherbakova_">
+        <attvalues>
+          <attvalue for="0" value="Anna SHCHERBAKOVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="4446" />
+        </attvalues>
+      </node>
+      <node id="minervahase" label="minervahase">
+        <attvalues>
+          <attvalue for="0" value="Minerva Fabienne HASE" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="3443" />
+        </attvalues>
+      </node>
+      <node id="metelkina_an" label="metelkina_an">
+        <attvalues>
+          <attvalue for="0" value="Anastasiia METELKINA" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="3949" />
+        </attvalues>
+      </node>
+      <node id="petrykinaniina" label="petrykinaniina">
+        <attvalues>
+          <attvalue for="0" value="Niina PETROKINA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="3739" />
+        </attvalues>
+      </node>
+      <node id="morozov_v92" label="morozov_v92">
+        <attvalues>
+          <attvalue for="0" value="Vladimir MOROZOV" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="9910" />
+        </attvalues>
+      </node>
+      <node id="sofia_muraveva_" label="sofia_muraveva_">
+        <attvalues>
+          <attvalue for="0" value="Sofia MURAVIEVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="oliviasmartx" label="oliviasmartx">
+        <attvalues>
+          <attvalue for="0" value="Olivia SMART" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="1440" />
+        </attvalues>
+      </node>
+      <node id="tessavirtue17" label="tessavirtue17">
+        <attvalues>
+          <attvalue for="0" value="Tessa VIRTUE" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="13634.0" />
+        </attvalues>
+      </node>
+      <node id="nikivolod2" label="nikivolod2">
+        <attvalues>
+          <attvalue for="0" value="Nikita VOLODIN" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="3443" />
+        </attvalues>
+      </node>
+      <node id="riku9111" label="riku9111">
+        <attvalues>
+          <attvalue for="0" value="Riku MIURA" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="8501" />
+        </attvalues>
+      </node>
+      <node id="amberglenniceskater" label="amberglenniceskater">
+        <attvalues>
+          <attvalue for="0" value="Amber GLENN" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="2437" />
+        </attvalues>
+      </node>
+      <node id="marcofabbri1988" label="marcofabbri1988">
+        <attvalues>
+          <attvalue for="0" value="Marco FABBRI" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="10364" />
+        </attvalues>
+      </node>
+      <node id="sofyasamodelkina" label="sofyasamodelkina">
+        <attvalues>
+          <attvalue for="0" value="Sofia SAMODELKINA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="751" />
+        </attvalues>
+      </node>
+      <node id="yunakim" label="yunakim">
+        <attvalues>
+          <attvalue for="0" value="Yuna KIM" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="9317.0" />
+        </attvalues>
+      </node>
+      <node id="daniel.grassl_official" label="daniel.grassl_official">
+        <attvalues>
+          <attvalue for="0" value="Daniel GRASSL" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="5901" />
+        </attvalues>
+      </node>
+      <node id="victoria_sinitsina" label="victoria_sinitsina">
+        <attvalues>
+          <attvalue for="0" value="Victoria SINITSINA" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="7106" />
+        </attvalues>
+      </node>
+      <node id="moriskvit" label="moriskvit">
+        <attvalues>
+          <attvalue for="0" value="Morisi KVITELASHVILI" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="3820" />
+        </attvalues>
+      </node>
+      <node id="deannamsd622" label="deannamsd622">
+        <attvalues>
+          <attvalue for="0" value="Deanna STELLATO-DUDEK" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="5750" />
+        </attvalues>
+      </node>
+      <node id="aleksandraboikova" label="aleksandraboikova">
+        <attvalues>
+          <attvalue for="0" value="Aleksandra BOIKOVA" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="4756" />
+        </attvalues>
+      </node>
+      <node id="adeliya_petrosian" label="adeliya_petrosian">
+        <attvalues>
+          <attvalue for="0" value="Adeliia PETROSIAN" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="rikaskate0721" label="rikaskate0721">
+        <attvalues>
+          <attvalue for="0" value="Rika KIHIRA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="3432" />
+        </attvalues>
+      </node>
+      <node id="aleksandrselevko" label="aleksandrselevko">
+        <attvalues>
+          <attvalue for="0" value="Aleksandr SELEVKO" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="2327" />
+        </attvalues>
+      </node>
+      <node id="pauldpoirier" label="pauldpoirier">
+        <attvalues>
+          <attvalue for="0" value="Paul POIRIER" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="9283" />
+        </attvalues>
+      </node>
+      <node id="aleksandrastepanova" label="aleksandrastepanova">
+        <attvalues>
+          <attvalue for="0" value="Alexandra STEPANOVA" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="4563" />
+        </attvalues>
+      </node>
+      <node id="saraconti_00" label="saraconti_00">
+        <attvalues>
+          <attvalue for="0" value="Sara CONTI" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="5191" />
+        </attvalues>
+      </node>
+      <node id="xam_trankov" label="xam_trankov">
+        <attvalues>
+          <attvalue for="0" value="Maxim TRANKOV" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="8629.0" />
+        </attvalues>
+      </node>
+      <node id="ericradford85" label="ericradford85">
+        <attvalues>
+          <attvalue for="0" value="Eric RADFORD" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="9059.0" />
+        </attvalues>
+      </node>
+      <node id="pchan31" label="pchan31">
+        <attvalues>
+          <attvalue for="0" value="Patrick CHAN" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="7717.0" />
+        </attvalues>
+      </node>
+      <node id="nikita_katsalapov" label="nikita_katsalapov">
+        <attvalues>
+          <attvalue for="0" value="Nikita KATSALAPOV" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="7106" />
+        </attvalues>
+      </node>
+      <node id="schluukas" label="schluukas">
+        <attvalues>
+          <attvalue for="0" value="Lukas BRITSCHGI" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="4543" />
+        </attvalues>
+      </node>
+      <node id="_vladislav_dikidzhi_" label="_vladislav_dikidzhi_">
+        <attvalues>
+          <attvalue for="0" value="Vladislav DIKIDZHI" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="a_gallyam" label="a_gallyam">
+        <attvalues>
+          <attvalue for="0" value="Aleksandr GALLIAMOV" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="3512" />
+        </attvalues>
+      </node>
+      <node id="dariochirizano" label="dariochirizano">
+        <attvalues>
+          <attvalue for="0" value="Dario CIRISANO" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="nika_egadze" label="nika_egadze">
+        <attvalues>
+          <attvalue for="0" value="Nika EGADZE" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="2443" />
+        </attvalues>
+      </node>
+      <node id="madisonchock" label="madisonchock">
+        <attvalues>
+          <attvalue for="0" value="Madison CHOCK" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="10307" />
+        </attvalues>
+      </node>
+      <node id="pipergilles" label="pipergilles">
+        <attvalues>
+          <attvalue for="0" value="Piper GILLES" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="9283" />
+        </attvalues>
+      </node>
+      <node id="kaetkiss" label="kaetkiss">
+        <attvalues>
+          <attvalue for="0" value="Kaetlyn OSMOND" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="6137.0" />
+        </attvalues>
+      </node>
+      <node id="liza_nugumanova_" label="liza_nugumanova_">
+        <attvalues>
+          <attvalue for="0" value="Elizaveta NUGUMANOVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="maximedeschamps" label="maximedeschamps">
+        <attvalues>
+          <attvalue for="0" value="Maxime DESCHAMPS" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="5750" />
+        </attvalues>
+      </node>
+      <node id="wakababy_sk8r" label="wakababy_sk8r">
+        <attvalues>
+          <attvalue for="0" value="Wakaba HIGUCHI" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="3165" />
+        </attvalues>
+      </node>
+      <node id="govincentzhou" label="govincentzhou">
+        <attvalues>
+          <attvalue for="0" value="Vincent ZHOU" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="4466" />
+        </attvalues>
+      </node>
+      <node id="_tarasova_evg" label="_tarasova_evg">
+        <attvalues>
+          <attvalue for="0" value="Evgenia TARASOVA" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="9910" />
+        </attvalues>
+      </node>
+      <node id="kihara_ryuichi" label="kihara_ryuichi">
+        <attvalues>
+          <attvalue for="0" value="Ryuichi KIHARA" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="8501" />
+        </attvalues>
+      </node>
+      <node id="charleneguignard" label="charleneguignard">
+        <attvalues>
+          <attvalue for="0" value="Charlene GUIGNARD" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="10364" />
+        </attvalues>
+      </node>
+      <node id="avtrusova" label="avtrusova">
+        <attvalues>
+          <attvalue for="0" value="Alexandra TRUSOVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="4488" />
+        </attvalues>
+      </node>
+      <node id="aliona_officialnew" label="aliona_officialnew">
+        <attvalues>
+          <attvalue for="0" value="Alena KOSTORNAIA" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="1290" />
+        </attvalues>
+      </node>
+      <node id="nathanwchen" label="nathanwchen">
+        <attvalues>
+          <attvalue for="0" value="Nathan CHEN" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="7501" />
+        </attvalues>
+      </node>
+      <node id="javierfernandezskater" label="javierfernandezskater">
+        <attvalues>
+          <attvalue for="0" value="Javier FERNANDEZ" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="13463.0" />
+        </attvalues>
+      </node>
+      <node id="nastya_gubanchik" label="nastya_gubanchik">
+        <attvalues>
+          <attvalue for="0" value="Anastasiia GUBANOVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="4666" />
+        </attvalues>
+      </node>
+      <node id="gabriellapapadakis" label="gabriellapapadakis">
+        <attvalues>
+          <attvalue for="0" value="Gabriella PAPADAKIS" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="5196" />
+        </attvalues>
+      </node>
+      <node id="han.cong" label="han.cong">
+        <attvalues>
+          <attvalue for="0" value="Cong HAN" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="5160" />
+        </attvalues>
+      </node>
+      <node id="maiashibutani" label="maiashibutani">
+        <attvalues>
+          <attvalue for="0" value="Maia SHIBUTANI" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="ekaterina_kurakova" label="ekaterina_kurakova">
+        <attvalues>
+          <attvalue for="0" value="Ekaterina KURAKOVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="3801" />
+        </attvalues>
+      </node>
+      <node id="jun_july_august" label="jun_july_august">
+        <attvalues>
+          <attvalue for="0" value="Junhwan CHA" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="7550" />
+        </attvalues>
+      </node>
+      <node id="meaganduhamel" label="meaganduhamel">
+        <attvalues>
+          <attvalue for="0" value="Meagan DUHAMEL" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="9059.0" />
+        </attvalues>
+      </node>
+      <node id="nikomacii" label="nikomacii">
+        <attvalues>
+          <attvalue for="0" value="Niccolo MACII" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="5191" />
+        </attvalues>
+      </node>
+      <node id="aljonasavchenko" label="aljonasavchenko">
+        <attvalues>
+          <attvalue for="0" value="Aljona SAVCHENKO" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="10944.0" />
+        </attvalues>
+      </node>
+      <node id="denissvasiljevs" label="denissvasiljevs">
+        <attvalues>
+          <attvalue for="0" value="Deniss VASILJEVS" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="5431" />
+        </attvalues>
+      </node>
+      <node id="scottmoir14" label="scottmoir14">
+        <attvalues>
+          <attvalue for="0" value="Scott MOIR" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="13634.0" />
+        </attvalues>
+      </node>
+      <node id="isabeau.levito" label="isabeau.levito">
+        <attvalues>
+          <attvalue for="0" value="Isabeau LEVITO" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="3330" />
+        </attvalues>
+      </node>
+      <node id="shoma_un0" label="shoma_un0">
+        <attvalues>
+          <attvalue for="0" value="Shoma UNO" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="9753" />
+        </attvalues>
+      </node>
+      <node id="yuma_kagiyama15" label="yuma_kagiyama15">
+        <attvalues>
+          <attvalue for="0" value="Yuma KAGIYAMA" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="7262" />
+        </attvalues>
+      </node>
+      <node id="kiira_korpi" label="kiira_korpi">
+        <attvalues>
+          <attvalue for="0" value="Kiira KORPI" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="3714.0" />
+        </attvalues>
+      </node>
+      <node id="guillaume_cizeron" label="guillaume_cizeron">
+        <attvalues>
+          <attvalue for="0" value="Guillaume CIZERON" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="5196" />
+        </attvalues>
+      </node>
+      <node id="jasonbskates" label="jasonbskates">
+        <attvalues>
+          <attvalue for="0" value="Jason BROWN" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="5319" />
+        </attvalues>
+      </node>
+      <node id="mskostner" label="mskostner">
+        <attvalues>
+          <attvalue for="0" value="Carolina KOSTNER" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="10315.0" />
+        </attvalues>
+      </node>
+      <node id="dmitry_aliev" label="dmitry_aliev">
+        <attvalues>
+          <attvalue for="0" value="Dmitri ALIEV" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="840" />
+        </attvalues>
+      </node>
+      <node id="elizaveta_pasechnikkk" label="elizaveta_pasechnikkk">
+        <attvalues>
+          <attvalue for="0" value="Elizaveta PASECHNIK" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="ninety.ninth" label="ninety.ninth">
+        <attvalues>
+          <attvalue for="0" value="Mark KONDRATIUK" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="1115" />
+        </attvalues>
+      </node>
+      <node id="berulava__luka" label="berulava__luka">
+        <attvalues>
+          <attvalue for="0" value="Luka BERULAVA" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="3949" />
+        </attvalues>
+      </node>
+      <node id="di__davis" label="di__davis">
+        <attvalues>
+          <attvalue for="0" value="Diana DAVIS" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="2725" />
+        </attvalues>
+      </node>
+      <node id="fire_bird" label="fire_bird">
+        <attvalues>
+          <attvalue for="0" value="Tatiana VOLOSOZHAR" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="8629.0" />
+        </attvalues>
+      </node>
+      <node id="happy_haein05" label="happy_haein05">
+        <attvalues>
+          <attvalue for="0" value="Haein LEE" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="6267" />
+        </attvalues>
+      </node>
+      <node id="lewisgibson4" label="lewisgibson4">
+        <attvalues>
+          <attvalue for="0" value="Lewis GIBSON" />
+          <attvalue for="1" value="Dance" />
+          <attvalue for="2" value="8663" />
+        </attvalues>
+      </node>
+      <node id="alysaxliu" label="alysaxliu">
+        <attvalues>
+          <attvalue for="0" value="Alysa LIU" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="3898" />
+        </attvalues>
+      </node>
+      <node id="bruno_massot" label="bruno_massot">
+        <attvalues>
+          <attvalue for="0" value="Bruno MASSOT" />
+          <attvalue for="1" value="Pairs" />
+          <attvalue for="2" value="4452.0" />
+        </attvalues>
+      </node>
+      <node id="kevin_aymoz" label="kevin_aymoz">
+        <attvalues>
+          <attvalue for="0" value="Kevin AYMOZ" />
+          <attvalue for="1" value="Men" />
+          <attvalue for="2" value="5154" />
+        </attvalues>
+      </node>
+      <node id="jmedvedevaj" label="jmedvedevaj">
+        <attvalues>
+          <attvalue for="0" value="Evgenia MEDVEDEVA" />
+          <attvalue for="1" value="LS" />
+          <attvalue for="2" value="7793" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="ivan_bukin_" target="kamilavalieva26" id="0" />
+      <edge source="ivan_bukin_" target="azagitova" id="1" />
+      <edge source="ivan_bukin_" target="avtrusova" id="2" />
+      <edge source="ivan_bukin_" target="anna__shcherbakova_" id="3" />
+      <edge source="ivan_bukin_" target="adeliya_petrosian" id="4" />
+      <edge source="ivan_bukin_" target="ninety.ninth" id="5" />
+      <edge source="ivan_bukin_" target="dmitry_aliev" id="6" />
+      <edge source="ivan_bukin_" target="a_gallyam" id="7" />
+      <edge source="ivan_bukin_" target="liza_tuktik" id="8" />
+      <edge source="ivan_bukin_" target="victoria_sinitsina" id="9" />
+      <edge source="ivan_bukin_" target="fire_bird" id="10" />
+      <edge source="ivan_bukin_" target="jmedvedevaj" id="11" />
+      <edge source="ivan_bukin_" target="xam_trankov" id="12" />
+      <edge source="ivan_bukin_" target="dimakozlovski" id="13" />
+      <edge source="ivan_bukin_" target="nathanwchen" id="14" />
+      <edge source="ivan_bukin_" target="sofyasamodelkina" id="15" />
+      <edge source="ivan_bukin_" target="guillaume_cizeron" id="16" />
+      <edge source="ivan_bukin_" target="gabriellapapadakis" id="17" />
+      <edge source="ivan_bukin_" target="aleksandrastepanova" id="18" />
+      <edge source="ivan_bukin_" target="morozov_v92" id="19" />
+      <edge source="ivan_bukin_" target="javierfernandezskater" id="20" />
+      <edge source="ivan_bukin_" target="alexshibutani" id="21" />
+      <edge source="evan_bates" target="azagitova" id="22" />
+      <edge source="evan_bates" target="avtrusova" id="23" />
+      <edge source="evan_bates" target="liza_tuktik" id="24" />
+      <edge source="evan_bates" target="victoria_sinitsina" id="25" />
+      <edge source="evan_bates" target="fire_bird" id="26" />
+      <edge source="evan_bates" target="jmedvedevaj" id="27" />
+      <edge source="evan_bates" target="xam_trankov" id="28" />
+      <edge source="evan_bates" target="tessavirtue17" id="29" />
+      <edge source="evan_bates" target="nathanwchen" id="30" />
+      <edge source="evan_bates" target="yuma_kagiyama15" id="31" />
+      <edge source="evan_bates" target="ilia_quadg0d_malinin" id="32" />
+      <edge source="evan_bates" target="happy_haein05" id="33" />
+      <edge source="evan_bates" target="_tarasova_evg" id="34" />
+      <edge source="evan_bates" target="yunakim" id="35" />
+      <edge source="evan_bates" target="wenjingsui" id="36" />
+      <edge source="evan_bates" target="gabriellapapadakis" id="37" />
+      <edge source="evan_bates" target="thelilahjoshow" id="38" />
+      <edge source="evan_bates" target="alysaxliu" id="39" />
+      <edge source="evan_bates" target="isabeau.levito" id="40" />
+      <edge source="evan_bates" target="shoma_un0" id="41" />
+      <edge source="evan_bates" target="guillaume_cizeron" id="42" />
+      <edge source="evan_bates" target="adam.siao" id="43" />
+      <edge source="evan_bates" target="tim.dieck" id="44" />
+      <edge source="evan_bates" target="meaganduhamel" id="45" />
+      <edge source="evan_bates" target="pipergilles" id="46" />
+      <edge source="kamilavalieva26" target="ninety.ninth" id="47" />
+      <edge source="azagitova" target="yunakim" id="48" />
+      <edge source="azagitova" target="anna__shcherbakova_" id="49" />
+      <edge source="azagitova" target="jmedvedevaj" id="50" />
+      <edge source="azagitova" target="moriskvit" id="51" />
+      <edge source="_chaeyeon.kim" target="sofyasamodelkina" id="52" />
+      <edge source="_chaeyeon.kim" target="yuma_kagiyama15" id="53" />
+      <edge source="_chaeyeon.kim" target="wakababy_sk8r" id="54" />
+      <edge source="_chaeyeon.kim" target="happy_haein05" id="55" />
+      <edge source="_chaeyeon.kim" target="pinzarrone_nina" id="56" />
+      <edge source="_chaeyeon.kim" target="yunakim" id="57" />
+      <edge source="_chaeyeon.kim" target="alysaxliu" id="58" />
+      <edge source="_chaeyeon.kim" target="isabeau.levito" id="59" />
+      <edge source="_chaeyeon.kim" target="nikolajmemola" id="60" />
+      <edge source="_chaeyeon.kim" target="jun_july_august" id="61" />
+      <edge source="_chaeyeon.kim" target="amberglenniceskater" id="62" />
+      <edge source="_chaeyeon.kim" target="govincentzhou" id="63" />
+      <edge source="mikhail_shaidorov" target="avtrusova" id="64" />
+      <edge source="mikhail_shaidorov" target="anna__shcherbakova_" id="65" />
+      <edge source="mikhail_shaidorov" target="liza_tuktik" id="66" />
+      <edge source="mikhail_shaidorov" target="nikita_katsalapov" id="67" />
+      <edge source="mikhail_shaidorov" target="aleksandraboikova" id="68" />
+      <edge source="mikhail_shaidorov" target="fire_bird" id="69" />
+      <edge source="mikhail_shaidorov" target="jmedvedevaj" id="70" />
+      <edge source="mikhail_shaidorov" target="xam_trankov" id="71" />
+      <edge source="mikhail_shaidorov" target="dimakozlovski" id="72" />
+      <edge source="mikhail_shaidorov" target="nathanwchen" id="73" />
+      <edge source="mikhail_shaidorov" target="yuzuruofficial_" id="74" />
+      <edge source="mikhail_shaidorov" target="ilia_quadg0d_malinin" id="75" />
+      <edge source="mikhail_shaidorov" target="yuma_kagiyama15" id="76" />
+      <edge source="mikhail_shaidorov" target="wakababy_sk8r" id="77" />
+      <edge source="mikhail_shaidorov" target="sofyasamodelkina" id="78" />
+      <edge source="mikhail_shaidorov" target="minervahase" id="79" />
+      <edge source="mikhail_shaidorov" target="aleksandrselevko" id="80" />
+      <edge source="mikhail_shaidorov" target="happy_haein05" id="81" />
+      <edge source="mikhail_shaidorov" target="glebsmolkin7" id="82" />
+      <edge source="mikhail_shaidorov" target="nastya_gubanchik" id="83" />
+      <edge source="mikhail_shaidorov" target="isabeau.levito" id="84" />
+      <edge source="mikhail_shaidorov" target="berulava__luka" id="85" />
+      <edge source="mikhail_shaidorov" target="tim.dieck" id="86" />
+      <edge source="mikhail_shaidorov" target="adam.siao" id="87" />
+      <edge source="mikhail_shaidorov" target="jun_july_august" id="88" />
+      <edge source="mikhail_shaidorov" target="nika_egadze" id="89" />
+      <edge source="mikhail_shaidorov" target="nikolajmemola" id="90" />
+      <edge source="mikhail_shaidorov" target="mikhail_kolyada" id="91" />
+      <edge source="mikhail_shaidorov" target="daniel.grassl_official" id="92" />
+      <edge source="mikhail_shaidorov" target="jasonbskates" id="93" />
+      <edge source="liza_tuktik" target="azagitova" id="94" />
+      <edge source="liza_tuktik" target="kamilavalieva26" id="95" />
+      <edge source="liza_tuktik" target="avtrusova" id="96" />
+      <edge source="liza_tuktik" target="anna__shcherbakova_" id="97" />
+      <edge source="liza_tuktik" target="sofia_muraveva_" id="98" />
+      <edge source="liza_tuktik" target="nikita_katsalapov" id="99" />
+      <edge source="liza_tuktik" target="dmitry_aliev" id="100" />
+      <edge source="liza_tuktik" target="ninety.ninth" id="101" />
+      <edge source="liza_tuktik" target="fire_bird" id="102" />
+      <edge source="liza_tuktik" target="victoria_sinitsina" id="103" />
+      <edge source="liza_tuktik" target="aliona_officialnew" id="104" />
+      <edge source="liza_tuktik" target="jmedvedevaj" id="105" />
+      <edge source="liza_tuktik" target="xam_trankov" id="106" />
+      <edge source="liza_tuktik" target="dimakozlovski" id="107" />
+      <edge source="liza_tuktik" target="tessavirtue17" id="108" />
+      <edge source="liza_tuktik" target="nathanwchen" id="109" />
+      <edge source="liza_tuktik" target="ilia_quadg0d_malinin" id="110" />
+      <edge source="liza_tuktik" target="yunakim" id="111" />
+      <edge source="liza_tuktik" target="yuma_kagiyama15" id="112" />
+      <edge source="liza_tuktik" target="alysaxliu" id="113" />
+      <edge source="liza_tuktik" target="gabriellapapadakis" id="114" />
+      <edge source="liza_tuktik" target="rikaskate0721" id="115" />
+      <edge source="liza_tuktik" target="ivan_bukin_" id="116" />
+      <edge source="liza_tuktik" target="adam.siao" id="117" />
+      <edge source="liza_tuktik" target="denissvasiljevs" id="118" />
+      <edge source="liza_tuktik" target="guillaume_cizeron" id="119" />
+      <edge source="liza_tuktik" target="wakababy_sk8r" id="120" />
+      <edge source="liza_tuktik" target="evgeniy__semenenko" id="121" />
+      <edge source="liza_tuktik" target="moriskvit" id="122" />
+      <edge source="liza_tuktik" target="loenahendrickx" id="123" />
+      <edge source="liza_tuktik" target="tim.dieck" id="124" />
+      <edge source="liza_tuktik" target="liza_nugumanova_" id="125" />
+      <edge source="liza_tuktik" target="pipergilles" id="126" />
+      <edge source="liza_tuktik" target="oliviasmartx" id="127" />
+      <edge source="liza_tuktik" target="meaganduhamel" id="128" />
+      <edge source="liza_tuktik" target="jasonbskates" id="129" />
+      <edge source="liza_tuktik" target="aljonasavchenko" id="130" />
+      <edge source="liza_tuktik" target="mskostner" id="131" />
+      <edge source="liza_tuktik" target="evan_bates" id="132" />
+      <edge source="liza_tuktik" target="morozov_v92" id="133" />
+      <edge source="liza_tuktik" target="pchan31" id="134" />
+      <edge source="liza_tuktik" target="javierfernandezskater" id="135" />
+      <edge source="liza_tuktik" target="alexshibutani" id="136" />
+      <edge source="dimakozlovski" target="azagitova" id="137" />
+      <edge source="dimakozlovski" target="kamilavalieva26" id="138" />
+      <edge source="dimakozlovski" target="avtrusova" id="139" />
+      <edge source="dimakozlovski" target="anna__shcherbakova_" id="140" />
+      <edge source="dimakozlovski" target="sofia_muraveva_" id="141" />
+      <edge source="dimakozlovski" target="liza_tuktik" id="142" />
+      <edge source="dimakozlovski" target="nikita_katsalapov" id="143" />
+      <edge source="dimakozlovski" target="dmitry_aliev" id="144" />
+      <edge source="dimakozlovski" target="ninety.ninth" id="145" />
+      <edge source="dimakozlovski" target="_kaganovskay_14" id="146" />
+      <edge source="dimakozlovski" target="aleksandraboikova" id="147" />
+      <edge source="dimakozlovski" target="fire_bird" id="148" />
+      <edge source="dimakozlovski" target="victoria_sinitsina" id="149" />
+      <edge source="dimakozlovski" target="jmedvedevaj" id="150" />
+      <edge source="dimakozlovski" target="xam_trankov" id="151" />
+      <edge source="dimakozlovski" target="tessavirtue17" id="152" />
+      <edge source="dimakozlovski" target="nathanwchen" id="153" />
+      <edge source="dimakozlovski" target="glebsmolkin7" id="154" />
+      <edge source="dimakozlovski" target="gabriellapapadakis" id="155" />
+      <edge source="dimakozlovski" target="di__davis" id="156" />
+      <edge source="dimakozlovski" target="petr_og" id="157" />
+      <edge source="dimakozlovski" target="guillaume_cizeron" id="158" />
+      <edge source="dimakozlovski" target="ivan_bukin_" id="159" />
+      <edge source="dimakozlovski" target="madisonchock" id="160" />
+      <edge source="dimakozlovski" target="moriskvit" id="161" />
+      <edge source="dimakozlovski" target="oliviasmartx" id="162" />
+      <edge source="dimakozlovski" target="charleneguignard" id="163" />
+      <edge source="dimakozlovski" target="scottmoir14" id="164" />
+      <edge source="dimakozlovski" target="mikhail_shaidorov" id="165" />
+      <edge source="dimakozlovski" target="govincentzhou" id="166" />
+      <edge source="dimakozlovski" target="marcofabbri1988" id="167" />
+      <edge source="dimakozlovski" target="mskostner" id="168" />
+      <edge source="dimakozlovski" target="pchan31" id="169" />
+      <edge source="dimakozlovski" target="aleksandrastepanova" id="170" />
+      <edge source="dimakozlovski" target="javierfernandezskater" id="171" />
+      <edge source="dimakozlovski" target="alexshibutani" id="172" />
+      <edge source="dimakozlovski" target="maiashibutani" id="173" />
+      <edge source="adam.siao" target="kamilavalieva26" id="174" />
+      <edge source="adam.siao" target="azagitova" id="175" />
+      <edge source="adam.siao" target="avtrusova" id="176" />
+      <edge source="adam.siao" target="anna__shcherbakova_" id="177" />
+      <edge source="adam.siao" target="sofia_muraveva_" id="178" />
+      <edge source="adam.siao" target="ninety.ninth" id="179" />
+      <edge source="adam.siao" target="dmitry_aliev" id="180" />
+      <edge source="adam.siao" target="liza_tuktik" id="181" />
+      <edge source="adam.siao" target="_kaganovskay_14" id="182" />
+      <edge source="adam.siao" target="victoria_sinitsina" id="183" />
+      <edge source="adam.siao" target="jmedvedevaj" id="184" />
+      <edge source="adam.siao" target="nathanwchen" id="185" />
+      <edge source="adam.siao" target="thelilahjoshow" id="186" />
+      <edge source="adam.siao" target="kihara_ryuichi" id="187" />
+      <edge source="adam.siao" target="ilia_quadg0d_malinin" id="188" />
+      <edge source="adam.siao" target="yuma_kagiyama15" id="189" />
+      <edge source="adam.siao" target="wakababy_sk8r" id="190" />
+      <edge source="adam.siao" target="shoma_un0" id="191" />
+      <edge source="adam.siao" target="minervahase" id="192" />
+      <edge source="adam.siao" target="alysaxliu" id="193" />
+      <edge source="adam.siao" target="aleksandrselevko" id="194" />
+      <edge source="adam.siao" target="_vladislav_dikidzhi_" id="195" />
+      <edge source="adam.siao" target="happy_haein05" id="196" />
+      <edge source="adam.siao" target="glebsmolkin7" id="197" />
+      <edge source="adam.siao" target="pinzarrone_nina" id="198" />
+      <edge source="adam.siao" target="yunakim" id="199" />
+      <edge source="adam.siao" target="rikaskate0721" id="200" />
+      <edge source="adam.siao" target="riku9111" id="201" />
+      <edge source="adam.siao" target="aleksandrastepanova" id="202" />
+      <edge source="adam.siao" target="isabeau.levito" id="203" />
+      <edge source="adam.siao" target="ekaterina_kurakova" id="204" />
+      <edge source="_kaganovskay_14" target="kamilavalieva26" id="205" />
+      <edge source="_kaganovskay_14" target="azagitova" id="206" />
+      <edge source="_kaganovskay_14" target="avtrusova" id="207" />
+      <edge source="_kaganovskay_14" target="nastia_ice" id="208" />
+      <edge source="_kaganovskay_14" target="anna__shcherbakova_" id="209" />
+      <edge source="_kaganovskay_14" target="sofia_muraveva_" id="210" />
+      <edge source="_kaganovskay_14" target="adeliya_petrosian" id="211" />
+      <edge source="_kaganovskay_14" target="ninety.ninth" id="212" />
+      <edge source="_kaganovskay_14" target="a_gallyam" id="213" />
+      <edge source="_kaganovskay_14" target="liza_tuktik" id="214" />
+      <edge source="_kaganovskay_14" target="nikita_katsalapov" id="215" />
+      <edge source="_kaganovskay_14" target="aleksandraboikova" id="216" />
+      <edge source="_kaganovskay_14" target="aliona_officialnew" id="217" />
+      <edge source="_kaganovskay_14" target="victoria_sinitsina" id="218" />
+      <edge source="_kaganovskay_14" target="fire_bird" id="219" />
+      <edge source="_kaganovskay_14" target="jmedvedevaj" id="220" />
+      <edge source="_kaganovskay_14" target="xam_trankov" id="221" />
+      <edge source="_kaganovskay_14" target="dimakozlovski" id="222" />
+      <edge source="_kaganovskay_14" target="tessavirtue17" id="223" />
+      <edge source="_kaganovskay_14" target="maxim_nekrasov_" id="224" />
+      <edge source="_kaganovskay_14" target="aleksandrastepanova" id="225" />
+      <edge source="_kaganovskay_14" target="sofyasamodelkina" id="226" />
+      <edge source="_kaganovskay_14" target="_vladislav_dikidzhi_" id="227" />
+      <edge source="_kaganovskay_14" target="nastya_gubanchik" id="228" />
+      <edge source="_kaganovskay_14" target="ivan_bukin_" id="229" />
+      <edge source="_kaganovskay_14" target="georgy_kunitsa13" id="230" />
+      <edge source="_kaganovskay_14" target="ekaterina_kurakova" id="231" />
+      <edge source="_kaganovskay_14" target="berulava__luka" id="232" />
+      <edge source="_kaganovskay_14" target="moriskvit" id="233" />
+      <edge source="_kaganovskay_14" target="elizaveta_pasechnikkk" id="234" />
+      <edge source="_kaganovskay_14" target="oliviasmartx" id="235" />
+      <edge source="_kaganovskay_14" target="tim.dieck" id="236" />
+      <edge source="_kaganovskay_14" target="madisonchock" id="237" />
+      <edge source="_kaganovskay_14" target="aljonasavchenko" id="238" />
+      <edge source="pinzarrone_nina" target="azagitova" id="239" />
+      <edge source="pinzarrone_nina" target="kamilavalieva26" id="240" />
+      <edge source="pinzarrone_nina" target="avtrusova" id="241" />
+      <edge source="pinzarrone_nina" target="anna__shcherbakova_" id="242" />
+      <edge source="pinzarrone_nina" target="adeliya_petrosian" id="243" />
+      <edge source="pinzarrone_nina" target="sofia_muraveva_" id="244" />
+      <edge source="pinzarrone_nina" target="liza_tuktik" id="245" />
+      <edge source="pinzarrone_nina" target="nikita_katsalapov" id="246" />
+      <edge source="pinzarrone_nina" target="fire_bird" id="247" />
+      <edge source="pinzarrone_nina" target="aliona_officialnew" id="248" />
+      <edge source="pinzarrone_nina" target="jmedvedevaj" id="249" />
+      <edge source="pinzarrone_nina" target="xam_trankov" id="250" />
+      <edge source="pinzarrone_nina" target="gabriellapapadakis" id="251" />
+      <edge source="pinzarrone_nina" target="ilia_quadg0d_malinin" id="252" />
+      <edge source="pinzarrone_nina" target="sofyasamodelkina" id="253" />
+      <edge source="pinzarrone_nina" target="ekaterina_kurakova" id="254" />
+      <edge source="pinzarrone_nina" target="minervahase" id="255" />
+      <edge source="pinzarrone_nina" target="nastya_gubanchik" id="256" />
+      <edge source="pinzarrone_nina" target="wakababy_sk8r" id="257" />
+      <edge source="pinzarrone_nina" target="thelilahjoshow" id="258" />
+      <edge source="pinzarrone_nina" target="happy_haein05" id="259" />
+      <edge source="pinzarrone_nina" target="rikaskate0721" id="260" />
+      <edge source="pinzarrone_nina" target="aleksandrselevko" id="261" />
+      <edge source="alexshibutani" target="wakababy_sk8r" id="262" />
+      <edge source="alexshibutani" target="dmitry_aliev" id="263" />
+      <edge source="alexshibutani" target="liza_tuktik" id="264" />
+      <edge source="alexshibutani" target="fire_bird" id="265" />
+      <edge source="alexshibutani" target="jmedvedevaj" id="266" />
+      <edge source="alexshibutani" target="nathanwchen" id="267" />
+      <edge source="alexshibutani" target="happy_haein05" id="268" />
+      <edge source="alexshibutani" target="yunakim" id="269" />
+      <edge source="alexshibutani" target="alysaxliu" id="270" />
+      <edge source="nikolajmemola" target="kamilavalieva26" id="271" />
+      <edge source="nikolajmemola" target="azagitova" id="272" />
+      <edge source="nikolajmemola" target="avtrusova" id="273" />
+      <edge source="nikolajmemola" target="nastia_ice" id="274" />
+      <edge source="nikolajmemola" target="anna__shcherbakova_" id="275" />
+      <edge source="nikolajmemola" target="adeliya_petrosian" id="276" />
+      <edge source="nikolajmemola" target="liza_tuktik" id="277" />
+      <edge source="nikolajmemola" target="aliona_officialnew" id="278" />
+      <edge source="nikolajmemola" target="fire_bird" id="279" />
+      <edge source="nikolajmemola" target="jmedvedevaj" id="280" />
+      <edge source="nikolajmemola" target="nathanwchen" id="281" />
+      <edge source="nikolajmemola" target="yuzuruofficial_" id="282" />
+      <edge source="nikolajmemola" target="thelilahjoshow" id="283" />
+      <edge source="nikolajmemola" target="ilia_quadg0d_malinin" id="284" />
+      <edge source="nikolajmemola" target="yuma_kagiyama15" id="285" />
+      <edge source="nikolajmemola" target="sofyasamodelkina" id="286" />
+      <edge source="nikolajmemola" target="aleksandrselevko" id="287" />
+      <edge source="nikolajmemola" target="happy_haein05" id="288" />
+      <edge source="nikolajmemola" target="alysaxliu" id="289" />
+      <edge source="nikolajmemola" target="pinzarrone_nina" id="290" />
+      <edge source="nikolajmemola" target="yunakim" id="291" />
+      <edge source="nikolajmemola" target="rikaskate0721" id="292" />
+      <edge source="nikolajmemola" target="nastya_gubanchik" id="293" />
+      <edge source="nikolajmemola" target="wenjingsui" id="294" />
+      <edge source="nikolajmemola" target="isabeau.levito" id="295" />
+      <edge source="nikolajmemola" target="ekaterina_kurakova" id="296" />
+      <edge source="nikolajmemola" target="berulava__luka" id="297" />
+      <edge source="nikolajmemola" target="guillaume_cizeron" id="298" />
+      <edge source="nikolajmemola" target="schluukas" id="299" />
+      <edge source="nikolajmemola" target="di__davis" id="300" />
+      <edge source="nikolajmemola" target="_chaeyeon.kim" id="301" />
+      <edge source="wenjingsui" target="wakababy_sk8r" id="302" />
+      <edge source="wenjingsui" target="liza_tuktik" id="303" />
+      <edge source="wenjingsui" target="yunakim" id="304" />
+      <edge source="wenjingsui" target="gabriellapapadakis" id="305" />
+      <edge source="wenjingsui" target="meaganduhamel" id="306" />
+      <edge source="wenjingsui" target="saraconti_00" id="307" />
+      <edge source="wenjingsui" target="ericradford85" id="308" />
+      <edge source="wenjingsui" target="aljonasavchenko" id="309" />
+      <edge source="wenjingsui" target="maiashibutani" id="310" />
+      <edge source="wenjingsui" target="evan_bates" id="311" />
+      <edge source="wenjingsui" target="govincentzhou" id="312" />
+      <edge source="wenjingsui" target="alexshibutani" id="313" />
+      <edge source="tim.dieck" target="kamilavalieva26" id="314" />
+      <edge source="tim.dieck" target="azagitova" id="315" />
+      <edge source="tim.dieck" target="anna__shcherbakova_" id="316" />
+      <edge source="tim.dieck" target="liza_tuktik" id="317" />
+      <edge source="tim.dieck" target="nikita_katsalapov" id="318" />
+      <edge source="tim.dieck" target="aliona_officialnew" id="319" />
+      <edge source="tim.dieck" target="_kaganovskay_14" id="320" />
+      <edge source="tim.dieck" target="victoria_sinitsina" id="321" />
+      <edge source="tim.dieck" target="jmedvedevaj" id="322" />
+      <edge source="tim.dieck" target="tessavirtue17" id="323" />
+      <edge source="tim.dieck" target="nathanwchen" id="324" />
+      <edge source="tim.dieck" target="petrykinaniina" id="325" />
+      <edge source="tim.dieck" target="thelilahjoshow" id="326" />
+      <edge source="tim.dieck" target="minervahase" id="327" />
+      <edge source="tim.dieck" target="wakababy_sk8r" id="328" />
+      <edge source="tim.dieck" target="sofyasamodelkina" id="329" />
+      <edge source="tim.dieck" target="glebsmolkin7" id="330" />
+      <edge source="tim.dieck" target="happy_haein05" id="331" />
+      <edge source="tim.dieck" target="nastya_gubanchik" id="332" />
+      <edge source="tim.dieck" target="alysaxliu" id="333" />
+      <edge source="tim.dieck" target="dariochirizano" id="334" />
+      <edge source="tim.dieck" target="rikaskate0721" id="335" />
+      <edge source="tim.dieck" target="isabeau.levito" id="336" />
+      <edge source="tim.dieck" target="gabriellapapadakis" id="337" />
+      <edge source="tim.dieck" target="loenahendrickx" id="338" />
+      <edge source="tim.dieck" target="moriskvit" id="339" />
+      <edge source="tim.dieck" target="guillaume_cizeron" id="340" />
+      <edge source="tim.dieck" target="metelkina_an" id="341" />
+      <edge source="tim.dieck" target="adam.siao" id="342" />
+      <edge source="tim.dieck" target="charleneguignard" id="343" />
+      <edge source="tim.dieck" target="jun_july_august" id="344" />
+      <edge source="tim.dieck" target="nikolajmemola" id="345" />
+      <edge source="evgeniy__semenenko" target="avtrusova" id="346" />
+      <edge source="evgeniy__semenenko" target="nastia_ice" id="347" />
+      <edge source="evgeniy__semenenko" target="anna__shcherbakova_" id="348" />
+      <edge source="evgeniy__semenenko" target="sofia_muraveva_" id="349" />
+      <edge source="evgeniy__semenenko" target="adeliya_petrosian" id="350" />
+      <edge source="evgeniy__semenenko" target="ninety.ninth" id="351" />
+      <edge source="evgeniy__semenenko" target="dmitry_aliev" id="352" />
+      <edge source="evgeniy__semenenko" target="a_gallyam" id="353" />
+      <edge source="evgeniy__semenenko" target="liza_tuktik" id="354" />
+      <edge source="evgeniy__semenenko" target="aliona_officialnew" id="355" />
+      <edge source="evgeniy__semenenko" target="_kaganovskay_14" id="356" />
+      <edge source="evgeniy__semenenko" target="nathanwchen" id="357" />
+      <edge source="evgeniy__semenenko" target="ilia_quadg0d_malinin" id="358" />
+      <edge source="evgeniy__semenenko" target="sofyasamodelkina" id="359" />
+      <edge source="evgeniy__semenenko" target="aleksandrselevko" id="360" />
+      <edge source="evgeniy__semenenko" target="_vladislav_dikidzhi_" id="361" />
+      <edge source="evgeniy__semenenko" target="happy_haein05" id="362" />
+      <edge source="evgeniy__semenenko" target="nastya_gubanchik" id="363" />
+      <edge source="evgeniy__semenenko" target="di__davis" id="364" />
+      <edge source="evgeniy__semenenko" target="georgy_kunitsa13" id="365" />
+      <edge source="evgeniy__semenenko" target="adam.siao" id="366" />
+      <edge source="evgeniy__semenenko" target="nikolajmemola" id="367" />
+      <edge source="evgeniy__semenenko" target="daniel.grassl_official" id="368" />
+      <edge source="evgeniy__semenenko" target="elizaveta_pasechnikkk" id="369" />
+      <edge source="evgeniy__semenenko" target="nika_egadze" id="370" />
+      <edge source="georgy_kunitsa13" target="ilia_quadg0d_malinin" id="371" />
+      <edge source="georgy_kunitsa13" target="azagitova" id="372" />
+      <edge source="georgy_kunitsa13" target="kamilavalieva26" id="373" />
+      <edge source="georgy_kunitsa13" target="avtrusova" id="374" />
+      <edge source="georgy_kunitsa13" target="anna__shcherbakova_" id="375" />
+      <edge source="georgy_kunitsa13" target="adeliya_petrosian" id="376" />
+      <edge source="georgy_kunitsa13" target="sofia_muraveva_" id="377" />
+      <edge source="georgy_kunitsa13" target="liza_tuktik" id="378" />
+      <edge source="georgy_kunitsa13" target="nikita_katsalapov" id="379" />
+      <edge source="georgy_kunitsa13" target="dmitry_aliev" id="380" />
+      <edge source="georgy_kunitsa13" target="ninety.ninth" id="381" />
+      <edge source="georgy_kunitsa13" target="_kaganovskay_14" id="382" />
+      <edge source="georgy_kunitsa13" target="aleksandraboikova" id="383" />
+      <edge source="georgy_kunitsa13" target="a_gallyam" id="384" />
+      <edge source="georgy_kunitsa13" target="aliona_officialnew" id="385" />
+      <edge source="georgy_kunitsa13" target="jmedvedevaj" id="386" />
+      <edge source="georgy_kunitsa13" target="nastia_ice" id="387" />
+      <edge source="georgy_kunitsa13" target="dimakozlovski" id="388" />
+      <edge source="georgy_kunitsa13" target="nikivolod2" id="389" />
+      <edge source="georgy_kunitsa13" target="nastya_gubanchik" id="390" />
+      <edge source="georgy_kunitsa13" target="glebsmolkin7" id="391" />
+      <edge source="georgy_kunitsa13" target="happy_haein05" id="392" />
+      <edge source="georgy_kunitsa13" target="di__davis" id="393" />
+      <edge source="georgy_kunitsa13" target="berulava__luka" id="394" />
+      <edge source="georgy_kunitsa13" target="ekaterina_kurakova" id="395" />
+      <edge source="nastia_ice" target="azagitova" id="396" />
+      <edge source="nastia_ice" target="kamilavalieva26" id="397" />
+      <edge source="nastia_ice" target="avtrusova" id="398" />
+      <edge source="nastia_ice" target="anna__shcherbakova_" id="399" />
+      <edge source="nastia_ice" target="sofia_muraveva_" id="400" />
+      <edge source="nastia_ice" target="liza_tuktik" id="401" />
+      <edge source="nastia_ice" target="ninety.ninth" id="402" />
+      <edge source="nastia_ice" target="_kaganovskay_14" id="403" />
+      <edge source="nastia_ice" target="aleksandraboikova" id="404" />
+      <edge source="nastia_ice" target="a_gallyam" id="405" />
+      <edge source="nastia_ice" target="victoria_sinitsina" id="406" />
+      <edge source="nastia_ice" target="aliona_officialnew" id="407" />
+      <edge source="nastia_ice" target="jmedvedevaj" id="408" />
+      <edge source="nastia_ice" target="dimakozlovski" id="409" />
+      <edge source="nastia_ice" target="nathanwchen" id="410" />
+      <edge source="nastia_ice" target="nikivolod2" id="411" />
+      <edge source="nastia_ice" target="ekaterina_kurakova" id="412" />
+      <edge source="nastia_ice" target="aleksandrastepanova" id="413" />
+      <edge source="nastia_ice" target="minervahase" id="414" />
+      <edge source="nastia_ice" target="nastya_gubanchik" id="415" />
+      <edge source="nastia_ice" target="glebsmolkin7" id="416" />
+      <edge source="nastia_ice" target="rikaskate0721" id="417" />
+      <edge source="nastia_ice" target="petr_og" id="418" />
+      <edge source="nastia_ice" target="georgy_kunitsa13" id="419" />
+      <edge source="nastia_ice" target="_tarasova_evg" id="420" />
+      <edge source="nastia_ice" target="di__davis" id="421" />
+      <edge source="nastia_ice" target="ivan_bukin_" id="422" />
+      <edge source="nastia_ice" target="riku9111" id="423" />
+      <edge source="nastia_ice" target="nikolajmemola" id="424" />
+      <edge source="nastia_ice" target="madisonchock" id="425" />
+      <edge source="nastia_ice" target="loenahendrickx" id="426" />
+      <edge source="nastia_ice" target="oliviasmartx" id="427" />
+      <edge source="nastia_ice" target="aljonasavchenko" id="428" />
+      <edge source="loenahendrickx" target="nathanwchen" id="429" />
+      <edge source="loenahendrickx" target="ilia_quadg0d_malinin" id="430" />
+      <edge source="loenahendrickx" target="sofyasamodelkina" id="431" />
+      <edge source="loenahendrickx" target="minervahase" id="432" />
+      <edge source="loenahendrickx" target="nastya_gubanchik" id="433" />
+      <edge source="loenahendrickx" target="gabriellapapadakis" id="434" />
+      <edge source="loenahendrickx" target="happy_haein05" id="435" />
+      <edge source="loenahendrickx" target="rikaskate0721" id="436" />
+      <edge source="loenahendrickx" target="petrykinaniina" id="437" />
+      <edge source="loenahendrickx" target="aleksandrselevko" id="438" />
+      <edge source="loenahendrickx" target="wakababy_sk8r" id="439" />
+      <edge source="loenahendrickx" target="pipergilles" id="440" />
+      <edge source="loenahendrickx" target="thelilahjoshow" id="441" />
+      <edge source="loenahendrickx" target="riku9111" id="442" />
+      <edge source="loenahendrickx" target="nikolajmemola" id="443" />
+      <edge source="loenahendrickx" target="isabeau.levito" id="444" />
+      <edge source="loenahendrickx" target="adam.siao" id="445" />
+      <edge source="loenahendrickx" target="amberglenniceskater" id="446" />
+      <edge source="loenahendrickx" target="kevin_aymoz" id="447" />
+      <edge source="loenahendrickx" target="jun_july_august" id="448" />
+      <edge source="loenahendrickx" target="aljonasavchenko" id="449" />
+      <edge source="loenahendrickx" target="moriskvit" id="450" />
+      <edge source="loenahendrickx" target="mskostner" id="451" />
+      <edge source="loenahendrickx" target="pauldpoirier" id="452" />
+      <edge source="loenahendrickx" target="lewisgibson4" id="453" />
+      <edge source="loenahendrickx" target="denissvasiljevs" id="454" />
+      <edge source="loenahendrickx" target="ericradford85" id="455" />
+      <edge source="loenahendrickx" target="pchan31" id="456" />
+      <edge source="mikhail_kolyada" target="anna__shcherbakova_" id="457" />
+      <edge source="mikhail_kolyada" target="ninety.ninth" id="458" />
+      <edge source="mikhail_kolyada" target="nikita_katsalapov" id="459" />
+      <edge source="mikhail_kolyada" target="fire_bird" id="460" />
+      <edge source="mikhail_kolyada" target="xam_trankov" id="461" />
+      <edge source="mikhail_kolyada" target="tessavirtue17" id="462" />
+      <edge source="mikhail_kolyada" target="nathanwchen" id="463" />
+      <edge source="mikhail_kolyada" target="ilia_quadg0d_malinin" id="464" />
+      <edge source="mikhail_kolyada" target="aleksandrselevko" id="465" />
+      <edge source="mikhail_kolyada" target="_vladislav_dikidzhi_" id="466" />
+      <edge source="mikhail_kolyada" target="ivan_bukin_" id="467" />
+      <edge source="mikhail_kolyada" target="moriskvit" id="468" />
+      <edge source="mikhail_kolyada" target="shoma_un0" id="469" />
+      <edge source="mikhail_kolyada" target="evgeniy__semenenko" id="470" />
+      <edge source="mikhail_kolyada" target="nikolajmemola" id="471" />
+      <edge source="mikhail_kolyada" target="kevin_aymoz" id="472" />
+      <edge source="mikhail_kolyada" target="morozov_v92" id="473" />
+      <edge source="mikhail_kolyada" target="nika_egadze" id="474" />
+      <edge source="mikhail_kolyada" target="bruno_massot" id="475" />
+      <edge source="mikhail_kolyada" target="evan_bates" id="476" />
+      <edge source="mikhail_kolyada" target="denissvasiljevs" id="477" />
+      <edge source="mikhail_kolyada" target="mskostner" id="478" />
+      <edge source="mikhail_kolyada" target="jasonbskates" id="479" />
+      <edge source="mikhail_kolyada" target="maiashibutani" id="480" />
+      <edge source="mikhail_kolyada" target="javierfernandezskater" id="481" />
+      <edge source="mikhail_kolyada" target="alexshibutani" id="482" />
+      <edge source="glebsmolkin7" target="avtrusova" id="483" />
+      <edge source="glebsmolkin7" target="nastia_ice" id="484" />
+      <edge source="glebsmolkin7" target="anna__shcherbakova_" id="485" />
+      <edge source="glebsmolkin7" target="dmitry_aliev" id="486" />
+      <edge source="glebsmolkin7" target="liza_tuktik" id="487" />
+      <edge source="glebsmolkin7" target="aleksandraboikova" id="488" />
+      <edge source="glebsmolkin7" target="xam_trankov" id="489" />
+      <edge source="glebsmolkin7" target="dimakozlovski" id="490" />
+      <edge source="glebsmolkin7" target="tessavirtue17" id="491" />
+      <edge source="glebsmolkin7" target="nathanwchen" id="492" />
+      <edge source="glebsmolkin7" target="ilia_quadg0d_malinin" id="493" />
+      <edge source="glebsmolkin7" target="thelilahjoshow" id="494" />
+      <edge source="glebsmolkin7" target="petrykinaniina" id="495" />
+      <edge source="glebsmolkin7" target="nastya_gubanchik" id="496" />
+      <edge source="glebsmolkin7" target="rikaskate0721" id="497" />
+      <edge source="glebsmolkin7" target="_tarasova_evg" id="498" />
+      <edge source="glebsmolkin7" target="isabeau.levito" id="499" />
+      <edge source="glebsmolkin7" target="ekaterina_kurakova" id="500" />
+      <edge source="glebsmolkin7" target="moriskvit" id="501" />
+      <edge source="glebsmolkin7" target="schluukas" id="502" />
+      <edge source="glebsmolkin7" target="metelkina_an" id="503" />
+      <edge source="glebsmolkin7" target="adam.siao" id="504" />
+      <edge source="glebsmolkin7" target="di__davis" id="505" />
+      <edge source="glebsmolkin7" target="mikhail_shaidorov" id="506" />
+      <edge source="glebsmolkin7" target="tim.dieck" id="507" />
+      <edge source="glebsmolkin7" target="nikolajmemola" id="508" />
+      <edge source="glebsmolkin7" target="charleneguignard" id="509" />
+      <edge source="glebsmolkin7" target="nika_egadze" id="510" />
+      <edge source="glebsmolkin7" target="madisonchock" id="511" />
+      <edge source="glebsmolkin7" target="oliviasmartx" id="512" />
+      <edge source="glebsmolkin7" target="saraconti_00" id="513" />
+      <edge source="glebsmolkin7" target="daniel.grassl_official" id="514" />
+      <edge source="glebsmolkin7" target="kevin_aymoz" id="515" />
+      <edge source="glebsmolkin7" target="evan_bates" id="516" />
+      <edge source="glebsmolkin7" target="liza_nugumanova_" id="517" />
+      <edge source="ilia_quadg0d_malinin" target="avtrusova" id="518" />
+      <edge source="ilia_quadg0d_malinin" target="anna__shcherbakova_" id="519" />
+      <edge source="ilia_quadg0d_malinin" target="sofia_muraveva_" id="520" />
+      <edge source="ilia_quadg0d_malinin" target="dmitry_aliev" id="521" />
+      <edge source="ilia_quadg0d_malinin" target="liza_tuktik" id="522" />
+      <edge source="ilia_quadg0d_malinin" target="aliona_officialnew" id="523" />
+      <edge source="ilia_quadg0d_malinin" target="jmedvedevaj" id="524" />
+      <edge source="ilia_quadg0d_malinin" target="tessavirtue17" id="525" />
+      <edge source="ilia_quadg0d_malinin" target="nathanwchen" id="526" />
+      <edge source="ilia_quadg0d_malinin" target="yuzuruofficial_" id="527" />
+      <edge source="ilia_quadg0d_malinin" target="petrykinaniina" id="528" />
+      <edge source="ilia_quadg0d_malinin" target="kihara_ryuichi" id="529" />
+      <edge source="ilia_quadg0d_malinin" target="sofyasamodelkina" id="530" />
+      <edge source="ilia_quadg0d_malinin" target="aleksandrselevko" id="531" />
+      <edge source="ilia_quadg0d_malinin" target="_vladislav_dikidzhi_" id="532" />
+      <edge source="ilia_quadg0d_malinin" target="happy_haein05" id="533" />
+      <edge source="ilia_quadg0d_malinin" target="yunakim" id="534" />
+      <edge source="ilia_quadg0d_malinin" target="shoma_un0" id="535" />
+      <edge source="ilia_quadg0d_malinin" target="riku9111" id="536" />
+      <edge source="ilia_quadg0d_malinin" target="wakababy_sk8r" id="537" />
+      <edge source="ilia_quadg0d_malinin" target="isabeau.levito" id="538" />
+      <edge source="ilia_quadg0d_malinin" target="ekaterina_kurakova" id="539" />
+      <edge source="ilia_quadg0d_malinin" target="berulava__luka" id="540" />
+      <edge source="ilia_quadg0d_malinin" target="guillaume_cizeron" id="541" />
+      <edge source="ilia_quadg0d_malinin" target="loenahendrickx" id="542" />
+      <edge source="ilia_quadg0d_malinin" target="adam.siao" id="543" />
+      <edge source="ilia_quadg0d_malinin" target="alysaxliu" id="544" />
+      <edge source="ilia_quadg0d_malinin" target="jun_july_august" id="545" />
+      <edge source="ilia_quadg0d_malinin" target="evgeniy__semenenko" id="546" />
+      <edge source="ilia_quadg0d_malinin" target="nikolajmemola" id="547" />
+      <edge source="ilia_quadg0d_malinin" target="gabriellapapadakis" id="548" />
+      <edge source="thelilahjoshow" target="nikita_katsalapov" id="549" />
+      <edge source="thelilahjoshow" target="victoria_sinitsina" id="550" />
+      <edge source="thelilahjoshow" target="jmedvedevaj" id="551" />
+      <edge source="thelilahjoshow" target="tessavirtue17" id="552" />
+      <edge source="thelilahjoshow" target="nathanwchen" id="553" />
+      <edge source="thelilahjoshow" target="minervahase" id="554" />
+      <edge source="thelilahjoshow" target="glebsmolkin7" id="555" />
+      <edge source="thelilahjoshow" target="di__davis" id="556" />
+      <edge source="thelilahjoshow" target="guillaume_cizeron" id="557" />
+      <edge source="thelilahjoshow" target="tim.dieck" id="558" />
+      <edge source="maxim_nekrasov_" target="kamilavalieva26" id="559" />
+      <edge source="maxim_nekrasov_" target="azagitova" id="560" />
+      <edge source="maxim_nekrasov_" target="avtrusova" id="561" />
+      <edge source="maxim_nekrasov_" target="nastia_ice" id="562" />
+      <edge source="maxim_nekrasov_" target="anna__shcherbakova_" id="563" />
+      <edge source="maxim_nekrasov_" target="sofia_muraveva_" id="564" />
+      <edge source="maxim_nekrasov_" target="adeliya_petrosian" id="565" />
+      <edge source="maxim_nekrasov_" target="ninety.ninth" id="566" />
+      <edge source="maxim_nekrasov_" target="dmitry_aliev" id="567" />
+      <edge source="maxim_nekrasov_" target="a_gallyam" id="568" />
+      <edge source="maxim_nekrasov_" target="liza_tuktik" id="569" />
+      <edge source="maxim_nekrasov_" target="nikita_katsalapov" id="570" />
+      <edge source="maxim_nekrasov_" target="aleksandraboikova" id="571" />
+      <edge source="maxim_nekrasov_" target="aliona_officialnew" id="572" />
+      <edge source="maxim_nekrasov_" target="_kaganovskay_14" id="573" />
+      <edge source="maxim_nekrasov_" target="victoria_sinitsina" id="574" />
+      <edge source="maxim_nekrasov_" target="jmedvedevaj" id="575" />
+      <edge source="maxim_nekrasov_" target="xam_trankov" id="576" />
+      <edge source="maxim_nekrasov_" target="dimakozlovski" id="577" />
+      <edge source="maxim_nekrasov_" target="tessavirtue17" id="578" />
+      <edge source="maxim_nekrasov_" target="_vladislav_dikidzhi_" id="579" />
+      <edge source="maxim_nekrasov_" target="petr_og" id="580" />
+      <edge source="maxim_nekrasov_" target="dariochirizano" id="581" />
+      <edge source="maxim_nekrasov_" target="nastya_gubanchik" id="582" />
+      <edge source="maxim_nekrasov_" target="berulava__luka" id="583" />
+      <edge source="maxim_nekrasov_" target="di__davis" id="584" />
+      <edge source="maxim_nekrasov_" target="_tarasova_evg" id="585" />
+      <edge source="maxim_nekrasov_" target="metelkina_an" id="586" />
+      <edge source="anna__shcherbakova_" target="ilia_quadg0d_malinin" id="587" />
+      <edge source="anna__shcherbakova_" target="yunakim" id="588" />
+      <edge source="anna__shcherbakova_" target="azagitova" id="589" />
+      <edge source="anna__shcherbakova_" target="kamilavalieva26" id="590" />
+      <edge source="anna__shcherbakova_" target="avtrusova" id="591" />
+      <edge source="anna__shcherbakova_" target="adeliya_petrosian" id="592" />
+      <edge source="anna__shcherbakova_" target="sofia_muraveva_" id="593" />
+      <edge source="anna__shcherbakova_" target="liza_tuktik" id="594" />
+      <edge source="anna__shcherbakova_" target="nikita_katsalapov" id="595" />
+      <edge source="anna__shcherbakova_" target="dmitry_aliev" id="596" />
+      <edge source="anna__shcherbakova_" target="ninety.ninth" id="597" />
+      <edge source="anna__shcherbakova_" target="_kaganovskay_14" id="598" />
+      <edge source="anna__shcherbakova_" target="aleksandraboikova" id="599" />
+      <edge source="anna__shcherbakova_" target="fire_bird" id="600" />
+      <edge source="anna__shcherbakova_" target="a_gallyam" id="601" />
+      <edge source="anna__shcherbakova_" target="victoria_sinitsina" id="602" />
+      <edge source="anna__shcherbakova_" target="aliona_officialnew" id="603" />
+      <edge source="anna__shcherbakova_" target="jmedvedevaj" id="604" />
+      <edge source="anna__shcherbakova_" target="nastia_ice" id="605" />
+      <edge source="anna__shcherbakova_" target="xam_trankov" id="606" />
+      <edge source="anna__shcherbakova_" target="tessavirtue17" id="607" />
+      <edge source="anna__shcherbakova_" target="nathanwchen" id="608" />
+      <edge source="anna__shcherbakova_" target="yuzuruofficial_" id="609" />
+      <edge source="anna__shcherbakova_" target="jun_july_august" id="610" />
+      <edge source="anna__shcherbakova_" target="yuma_kagiyama15" id="611" />
+      <edge source="anna__shcherbakova_" target="nastya_gubanchik" id="612" />
+      <edge source="anna__shcherbakova_" target="sofyasamodelkina" id="613" />
+      <edge source="anna__shcherbakova_" target="shoma_un0" id="614" />
+      <edge source="anna__shcherbakova_" target="ekaterina_kurakova" id="615" />
+      <edge source="anna__shcherbakova_" target="mikhail_kolyada" id="616" />
+      <edge source="anna__shcherbakova_" target="petr_og" id="617" />
+      <edge source="anna__shcherbakova_" target="gabriellapapadakis" id="618" />
+      <edge source="anna__shcherbakova_" target="ivan_bukin_" id="619" />
+      <edge source="anna__shcherbakova_" target="berulava__luka" id="620" />
+      <edge source="anna__shcherbakova_" target="amberglenniceskater" id="621" />
+      <edge source="anna__shcherbakova_" target="georgy_kunitsa13" id="622" />
+      <edge source="anna__shcherbakova_" target="nika_egadze" id="623" />
+      <edge source="anna__shcherbakova_" target="adam.siao" id="624" />
+      <edge source="anna__shcherbakova_" target="mikhail_shaidorov" id="625" />
+      <edge source="anna__shcherbakova_" target="evgeniy__semenenko" id="626" />
+      <edge source="anna__shcherbakova_" target="moriskvit" id="627" />
+      <edge source="anna__shcherbakova_" target="nikolajmemola" id="628" />
+      <edge source="anna__shcherbakova_" target="loenahendrickx" id="629" />
+      <edge source="anna__shcherbakova_" target="liza_nugumanova_" id="630" />
+      <edge source="anna__shcherbakova_" target="daniel.grassl_official" id="631" />
+      <edge source="anna__shcherbakova_" target="scottmoir14" id="632" />
+      <edge source="anna__shcherbakova_" target="di__davis" id="633" />
+      <edge source="anna__shcherbakova_" target="mskostner" id="634" />
+      <edge source="anna__shcherbakova_" target="madisonchock" id="635" />
+      <edge source="anna__shcherbakova_" target="javierfernandezskater" id="636" />
+      <edge source="minervahase" target="liza_tuktik" id="637" />
+      <edge source="minervahase" target="aleksandraboikova" id="638" />
+      <edge source="minervahase" target="nastia_ice" id="639" />
+      <edge source="minervahase" target="tessavirtue17" id="640" />
+      <edge source="minervahase" target="nathanwchen" id="641" />
+      <edge source="minervahase" target="gabriellapapadakis" id="642" />
+      <edge source="minervahase" target="ilia_quadg0d_malinin" id="643" />
+      <edge source="minervahase" target="nikivolod2" id="644" />
+      <edge source="minervahase" target="thelilahjoshow" id="645" />
+      <edge source="minervahase" target="happy_haein05" id="646" />
+      <edge source="minervahase" target="aleksandrselevko" id="647" />
+      <edge source="minervahase" target="pipergilles" id="648" />
+      <edge source="minervahase" target="pinzarrone_nina" id="649" />
+      <edge source="minervahase" target="petrykinaniina" id="650" />
+      <edge source="minervahase" target="tim.dieck" id="651" />
+      <edge source="minervahase" target="isabeau.levito" id="652" />
+      <edge source="minervahase" target="schluukas" id="653" />
+      <edge source="minervahase" target="madisonchock" id="654" />
+      <edge source="minervahase" target="adam.siao" id="655" />
+      <edge source="minervahase" target="kevin_aymoz" id="656" />
+      <edge source="minervahase" target="saraconti_00" id="657" />
+      <edge source="minervahase" target="oliviasmartx" id="658" />
+      <edge source="minervahase" target="pauldpoirier" id="659" />
+      <edge source="metelkina_an" target="kamilavalieva26" id="660" />
+      <edge source="metelkina_an" target="avtrusova" id="661" />
+      <edge source="metelkina_an" target="liza_tuktik" id="662" />
+      <edge source="metelkina_an" target="dmitry_aliev" id="663" />
+      <edge source="metelkina_an" target="_kaganovskay_14" id="664" />
+      <edge source="metelkina_an" target="aleksandraboikova" id="665" />
+      <edge source="metelkina_an" target="aliona_officialnew" id="666" />
+      <edge source="metelkina_an" target="jmedvedevaj" id="667" />
+      <edge source="metelkina_an" target="nastia_ice" id="668" />
+      <edge source="metelkina_an" target="dimakozlovski" id="669" />
+      <edge source="metelkina_an" target="ilia_quadg0d_malinin" id="670" />
+      <edge source="metelkina_an" target="minervahase" id="671" />
+      <edge source="metelkina_an" target="maxim_nekrasov_" id="672" />
+      <edge source="metelkina_an" target="nastya_gubanchik" id="673" />
+      <edge source="metelkina_an" target="glebsmolkin7" id="674" />
+      <edge source="metelkina_an" target="aleksandrselevko" id="675" />
+      <edge source="metelkina_an" target="petrykinaniina" id="676" />
+      <edge source="metelkina_an" target="ekaterina_kurakova" id="677" />
+      <edge source="metelkina_an" target="georgy_kunitsa13" id="678" />
+      <edge source="metelkina_an" target="di__davis" id="679" />
+      <edge source="metelkina_an" target="schluukas" id="680" />
+      <edge source="metelkina_an" target="tim.dieck" id="681" />
+      <edge source="metelkina_an" target="charleneguignard" id="682" />
+      <edge source="metelkina_an" target="nikolajmemola" id="683" />
+      <edge source="petrykinaniina" target="kamilavalieva26" id="684" />
+      <edge source="petrykinaniina" target="azagitova" id="685" />
+      <edge source="petrykinaniina" target="avtrusova" id="686" />
+      <edge source="petrykinaniina" target="anna__shcherbakova_" id="687" />
+      <edge source="petrykinaniina" target="sofia_muraveva_" id="688" />
+      <edge source="petrykinaniina" target="liza_tuktik" id="689" />
+      <edge source="petrykinaniina" target="aleksandraboikova" id="690" />
+      <edge source="petrykinaniina" target="aliona_officialnew" id="691" />
+      <edge source="petrykinaniina" target="jmedvedevaj" id="692" />
+      <edge source="petrykinaniina" target="nathanwchen" id="693" />
+      <edge source="petrykinaniina" target="nikivolod2" id="694" />
+      <edge source="petrykinaniina" target="sofyasamodelkina" id="695" />
+      <edge source="petrykinaniina" target="minervahase" id="696" />
+      <edge source="petrykinaniina" target="nastya_gubanchik" id="697" />
+      <edge source="petrykinaniina" target="pinzarrone_nina" id="698" />
+      <edge source="petrykinaniina" target="glebsmolkin7" id="699" />
+      <edge source="petrykinaniina" target="aleksandrselevko" id="700" />
+      <edge source="petrykinaniina" target="wakababy_sk8r" id="701" />
+      <edge source="petrykinaniina" target="happy_haein05" id="702" />
+      <edge source="petrykinaniina" target="isabeau.levito" id="703" />
+      <edge source="petrykinaniina" target="nikolajmemola" id="704" />
+      <edge source="petrykinaniina" target="ekaterina_kurakova" id="705" />
+      <edge source="petrykinaniina" target="schluukas" id="706" />
+      <edge source="petrykinaniina" target="loenahendrickx" id="707" />
+      <edge source="morozov_v92" target="gabriellapapadakis" id="708" />
+      <edge source="morozov_v92" target="azagitova" id="709" />
+      <edge source="morozov_v92" target="kamilavalieva26" id="710" />
+      <edge source="morozov_v92" target="avtrusova" id="711" />
+      <edge source="morozov_v92" target="anna__shcherbakova_" id="712" />
+      <edge source="morozov_v92" target="adeliya_petrosian" id="713" />
+      <edge source="morozov_v92" target="liza_tuktik" id="714" />
+      <edge source="morozov_v92" target="nikita_katsalapov" id="715" />
+      <edge source="morozov_v92" target="ninety.ninth" id="716" />
+      <edge source="morozov_v92" target="fire_bird" id="717" />
+      <edge source="morozov_v92" target="a_gallyam" id="718" />
+      <edge source="morozov_v92" target="victoria_sinitsina" id="719" />
+      <edge source="morozov_v92" target="xam_trankov" id="720" />
+      <edge source="morozov_v92" target="tessavirtue17" id="721" />
+      <edge source="morozov_v92" target="nathanwchen" id="722" />
+      <edge source="morozov_v92" target="maxim_nekrasov_" id="723" />
+      <edge source="morozov_v92" target="berulava__luka" id="724" />
+      <edge source="morozov_v92" target="di__davis" id="725" />
+      <edge source="morozov_v92" target="madisonchock" id="726" />
+      <edge source="morozov_v92" target="aleksandrastepanova" id="727" />
+      <edge source="morozov_v92" target="charleneguignard" id="728" />
+      <edge source="morozov_v92" target="scottmoir14" id="729" />
+      <edge source="morozov_v92" target="mikhail_kolyada" id="730" />
+      <edge source="morozov_v92" target="evan_bates" id="731" />
+      <edge source="morozov_v92" target="pchan31" id="732" />
+      <edge source="morozov_v92" target="maiashibutani" id="733" />
+      <edge source="morozov_v92" target="javierfernandezskater" id="734" />
+      <edge source="sofia_muraveva_" target="ilia_quadg0d_malinin" id="735" />
+      <edge source="sofia_muraveva_" target="kamilavalieva26" id="736" />
+      <edge source="sofia_muraveva_" target="azagitova" id="737" />
+      <edge source="sofia_muraveva_" target="nastia_ice" id="738" />
+      <edge source="sofia_muraveva_" target="anna__shcherbakova_" id="739" />
+      <edge source="sofia_muraveva_" target="ninety.ninth" id="740" />
+      <edge source="sofia_muraveva_" target="dmitry_aliev" id="741" />
+      <edge source="sofia_muraveva_" target="a_gallyam" id="742" />
+      <edge source="sofia_muraveva_" target="liza_tuktik" id="743" />
+      <edge source="sofia_muraveva_" target="aleksandraboikova" id="744" />
+      <edge source="sofia_muraveva_" target="aliona_officialnew" id="745" />
+      <edge source="sofia_muraveva_" target="_kaganovskay_14" id="746" />
+      <edge source="sofia_muraveva_" target="jmedvedevaj" id="747" />
+      <edge source="sofia_muraveva_" target="dimakozlovski" id="748" />
+      <edge source="sofia_muraveva_" target="nathanwchen" id="749" />
+      <edge source="sofia_muraveva_" target="nastya_gubanchik" id="750" />
+      <edge source="sofia_muraveva_" target="pinzarrone_nina" id="751" />
+      <edge source="sofia_muraveva_" target="_vladislav_dikidzhi_" id="752" />
+      <edge source="sofia_muraveva_" target="happy_haein05" id="753" />
+      <edge source="sofia_muraveva_" target="petr_og" id="754" />
+      <edge source="sofia_muraveva_" target="di__davis" id="755" />
+      <edge source="sofia_muraveva_" target="georgy_kunitsa13" id="756" />
+      <edge source="sofia_muraveva_" target="isabeau.levito" id="757" />
+      <edge source="sofia_muraveva_" target="ekaterina_kurakova" id="758" />
+      <edge source="sofia_muraveva_" target="ivan_bukin_" id="759" />
+      <edge source="sofia_muraveva_" target="adam.siao" id="760" />
+      <edge source="sofia_muraveva_" target="liza_nugumanova_" id="761" />
+      <edge source="oliviasmartx" target="nastia_ice" id="762" />
+      <edge source="oliviasmartx" target="liza_tuktik" id="763" />
+      <edge source="oliviasmartx" target="nikita_katsalapov" id="764" />
+      <edge source="oliviasmartx" target="aleksandraboikova" id="765" />
+      <edge source="oliviasmartx" target="victoria_sinitsina" id="766" />
+      <edge source="oliviasmartx" target="jmedvedevaj" id="767" />
+      <edge source="oliviasmartx" target="tessavirtue17" id="768" />
+      <edge source="oliviasmartx" target="nathanwchen" id="769" />
+      <edge source="oliviasmartx" target="ilia_quadg0d_malinin" id="770" />
+      <edge source="oliviasmartx" target="sofyasamodelkina" id="771" />
+      <edge source="oliviasmartx" target="glebsmolkin7" id="772" />
+      <edge source="oliviasmartx" target="nikivolod2" id="773" />
+      <edge source="oliviasmartx" target="aleksandrastepanova" id="774" />
+      <edge source="oliviasmartx" target="alysaxliu" id="775" />
+      <edge source="oliviasmartx" target="rikaskate0721" id="776" />
+      <edge source="oliviasmartx" target="thelilahjoshow" id="777" />
+      <edge source="oliviasmartx" target="isabeau.levito" id="778" />
+      <edge source="oliviasmartx" target="ekaterina_kurakova" id="779" />
+      <edge source="oliviasmartx" target="_tarasova_evg" id="780" />
+      <edge source="oliviasmartx" target="wakababy_sk8r" id="781" />
+      <edge source="oliviasmartx" target="moriskvit" id="782" />
+      <edge source="oliviasmartx" target="guillaume_cizeron" id="783" />
+      <edge source="oliviasmartx" target="gabriellapapadakis" id="784" />
+      <edge source="oliviasmartx" target="metelkina_an" id="785" />
+      <edge source="oliviasmartx" target="tim.dieck" id="786" />
+      <edge source="oliviasmartx" target="schluukas" id="787" />
+      <edge source="oliviasmartx" target="mikhail_shaidorov" id="788" />
+      <edge source="oliviasmartx" target="loenahendrickx" id="789" />
+      <edge source="tessavirtue17" target="thelilahjoshow" id="790" />
+      <edge source="tessavirtue17" target="liza_tuktik" id="791" />
+      <edge source="tessavirtue17" target="fire_bird" id="792" />
+      <edge source="tessavirtue17" target="xam_trankov" id="793" />
+      <edge source="tessavirtue17" target="gabriellapapadakis" id="794" />
+      <edge source="tessavirtue17" target="meaganduhamel" id="795" />
+      <edge source="tessavirtue17" target="scottmoir14" id="796" />
+      <edge source="tessavirtue17" target="oliviasmartx" id="797" />
+      <edge source="tessavirtue17" target="madisonchock" id="798" />
+      <edge source="nikivolod2" target="a_gallyam" id="799" />
+      <edge source="nikivolod2" target="gabriellapapadakis" id="800" />
+      <edge source="nikivolod2" target="minervahase" id="801" />
+      <edge source="nikivolod2" target="aleksandrselevko" id="802" />
+      <edge source="nikivolod2" target="georgy_kunitsa13" id="803" />
+      <edge source="nikivolod2" target="di__davis" id="804" />
+      <edge source="nikivolod2" target="berulava__luka" id="805" />
+      <edge source="nikivolod2" target="schluukas" id="806" />
+      <edge source="nikivolod2" target="moriskvit" id="807" />
+      <edge source="nikivolod2" target="oliviasmartx" id="808" />
+      <edge source="nikivolod2" target="saraconti_00" id="809" />
+      <edge source="nikivolod2" target="kevin_aymoz" id="810" />
+      <edge source="nikivolod2" target="mikhail_shaidorov" id="811" />
+      <edge source="nikivolod2" target="nika_egadze" id="812" />
+      <edge source="nikivolod2" target="ericradford85" id="813" />
+      <edge source="nikivolod2" target="lewisgibson4" id="814" />
+      <edge source="riku9111" target="aliona_officialnew" id="815" />
+      <edge source="riku9111" target="nastia_ice" id="816" />
+      <edge source="riku9111" target="ilia_quadg0d_malinin" id="817" />
+      <edge source="riku9111" target="kihara_ryuichi" id="818" />
+      <edge source="riku9111" target="yuma_kagiyama15" id="819" />
+      <edge source="riku9111" target="pipergilles" id="820" />
+      <edge source="riku9111" target="wakababy_sk8r" id="821" />
+      <edge source="riku9111" target="isabeau.levito" id="822" />
+      <edge source="riku9111" target="loenahendrickx" id="823" />
+      <edge source="riku9111" target="adam.siao" id="824" />
+      <edge source="riku9111" target="kevin_aymoz" id="825" />
+      <edge source="riku9111" target="pauldpoirier" id="826" />
+      <edge source="amberglenniceskater" target="anna__shcherbakova_" id="827" />
+      <edge source="amberglenniceskater" target="liza_tuktik" id="828" />
+      <edge source="amberglenniceskater" target="jmedvedevaj" id="829" />
+      <edge source="amberglenniceskater" target="tessavirtue17" id="830" />
+      <edge source="amberglenniceskater" target="gabriellapapadakis" id="831" />
+      <edge source="amberglenniceskater" target="ilia_quadg0d_malinin" id="832" />
+      <edge source="amberglenniceskater" target="ekaterina_kurakova" id="833" />
+      <edge source="amberglenniceskater" target="kiira_korpi" id="834" />
+      <edge source="amberglenniceskater" target="happy_haein05" id="835" />
+      <edge source="amberglenniceskater" target="rikaskate0721" id="836" />
+      <edge source="amberglenniceskater" target="yuma_kagiyama15" id="837" />
+      <edge source="amberglenniceskater" target="yunakim" id="838" />
+      <edge source="amberglenniceskater" target="alysaxliu" id="839" />
+      <edge source="amberglenniceskater" target="wakababy_sk8r" id="840" />
+      <edge source="amberglenniceskater" target="isabeau.levito" id="841" />
+      <edge source="amberglenniceskater" target="madisonchock" id="842" />
+      <edge source="amberglenniceskater" target="adam.siao" id="843" />
+      <edge source="amberglenniceskater" target="liza_nugumanova_" id="844" />
+      <edge source="amberglenniceskater" target="oliviasmartx" id="845" />
+      <edge source="amberglenniceskater" target="_chaeyeon.kim" id="846" />
+      <edge source="amberglenniceskater" target="di__davis" id="847" />
+      <edge source="amberglenniceskater" target="kevin_aymoz" id="848" />
+      <edge source="amberglenniceskater" target="pauldpoirier" id="849" />
+      <edge source="amberglenniceskater" target="jun_july_august" id="850" />
+      <edge source="amberglenniceskater" target="scottmoir14" id="851" />
+      <edge source="amberglenniceskater" target="mikhail_shaidorov" id="852" />
+      <edge source="amberglenniceskater" target="marcofabbri1988" id="853" />
+      <edge source="amberglenniceskater" target="lewisgibson4" id="854" />
+      <edge source="amberglenniceskater" target="meaganduhamel" id="855" />
+      <edge source="amberglenniceskater" target="evan_bates" id="856" />
+      <edge source="marcofabbri1988" target="kamilavalieva26" id="857" />
+      <edge source="marcofabbri1988" target="azagitova" id="858" />
+      <edge source="marcofabbri1988" target="anna__shcherbakova_" id="859" />
+      <edge source="marcofabbri1988" target="aleksandraboikova" id="860" />
+      <edge source="marcofabbri1988" target="aliona_officialnew" id="861" />
+      <edge source="marcofabbri1988" target="victoria_sinitsina" id="862" />
+      <edge source="marcofabbri1988" target="jmedvedevaj" id="863" />
+      <edge source="marcofabbri1988" target="tessavirtue17" id="864" />
+      <edge source="marcofabbri1988" target="nastya_gubanchik" id="865" />
+      <edge source="marcofabbri1988" target="metelkina_an" id="866" />
+      <edge source="marcofabbri1988" target="charleneguignard" id="867" />
+      <edge source="marcofabbri1988" target="javierfernandezskater" id="868" />
+      <edge source="sofyasamodelkina" target="azagitova" id="869" />
+      <edge source="sofyasamodelkina" target="kamilavalieva26" id="870" />
+      <edge source="sofyasamodelkina" target="avtrusova" id="871" />
+      <edge source="sofyasamodelkina" target="anna__shcherbakova_" id="872" />
+      <edge source="sofyasamodelkina" target="liza_tuktik" id="873" />
+      <edge source="sofyasamodelkina" target="dmitry_aliev" id="874" />
+      <edge source="sofyasamodelkina" target="_kaganovskay_14" id="875" />
+      <edge source="sofyasamodelkina" target="jmedvedevaj" id="876" />
+      <edge source="sofyasamodelkina" target="nathanwchen" id="877" />
+      <edge source="sofyasamodelkina" target="ilia_quadg0d_malinin" id="878" />
+      <edge source="sofyasamodelkina" target="alysaxliu" id="879" />
+      <edge source="sofyasamodelkina" target="petrykinaniina" id="880" />
+      <edge source="sofyasamodelkina" target="happy_haein05" id="881" />
+      <edge source="sofyasamodelkina" target="aleksandrselevko" id="882" />
+      <edge source="sofyasamodelkina" target="yuma_kagiyama15" id="883" />
+      <edge source="sofyasamodelkina" target="pinzarrone_nina" id="884" />
+      <edge source="sofyasamodelkina" target="loenahendrickx" id="885" />
+      <edge source="sofyasamodelkina" target="di__davis" id="886" />
+      <edge source="sofyasamodelkina" target="nikolajmemola" id="887" />
+      <edge source="sofyasamodelkina" target="isabeau.levito" id="888" />
+      <edge source="sofyasamodelkina" target="adam.siao" id="889" />
+      <edge source="sofyasamodelkina" target="evgeniy__semenenko" id="890" />
+      <edge source="sofyasamodelkina" target="schluukas" id="891" />
+      <edge source="sofyasamodelkina" target="amberglenniceskater" id="892" />
+      <edge source="sofyasamodelkina" target="oliviasmartx" id="893" />
+      <edge source="sofyasamodelkina" target="_chaeyeon.kim" id="894" />
+      <edge source="sofyasamodelkina" target="kevin_aymoz" id="895" />
+      <edge source="sofyasamodelkina" target="jun_july_august" id="896" />
+      <edge source="sofyasamodelkina" target="nika_egadze" id="897" />
+      <edge source="sofyasamodelkina" target="moriskvit" id="898" />
+      <edge source="sofyasamodelkina" target="jasonbskates" id="899" />
+      <edge source="sofyasamodelkina" target="mikhail_shaidorov" id="900" />
+      <edge source="sofyasamodelkina" target="mskostner" id="901" />
+      <edge source="sofyasamodelkina" target="daniel.grassl_official" id="902" />
+      <edge source="sofyasamodelkina" target="javierfernandezskater" id="903" />
+      <edge source="daniel.grassl_official" target="avtrusova" id="904" />
+      <edge source="daniel.grassl_official" target="anna__shcherbakova_" id="905" />
+      <edge source="daniel.grassl_official" target="adeliya_petrosian" id="906" />
+      <edge source="daniel.grassl_official" target="ninety.ninth" id="907" />
+      <edge source="daniel.grassl_official" target="a_gallyam" id="908" />
+      <edge source="daniel.grassl_official" target="yuzuruofficial_" id="909" />
+      <edge source="daniel.grassl_official" target="ilia_quadg0d_malinin" id="910" />
+      <edge source="daniel.grassl_official" target="yuma_kagiyama15" id="911" />
+      <edge source="daniel.grassl_official" target="sofyasamodelkina" id="912" />
+      <edge source="daniel.grassl_official" target="aleksandrselevko" id="913" />
+      <edge source="daniel.grassl_official" target="happy_haein05" id="914" />
+      <edge source="daniel.grassl_official" target="wakababy_sk8r" id="915" />
+      <edge source="daniel.grassl_official" target="glebsmolkin7" id="916" />
+      <edge source="daniel.grassl_official" target="alysaxliu" id="917" />
+      <edge source="daniel.grassl_official" target="nastya_gubanchik" id="918" />
+      <edge source="daniel.grassl_official" target="berulava__luka" id="919" />
+      <edge source="daniel.grassl_official" target="moriskvit" id="920" />
+      <edge source="daniel.grassl_official" target="adam.siao" id="921" />
+      <edge source="daniel.grassl_official" target="schluukas" id="922" />
+      <edge source="daniel.grassl_official" target="mikhail_shaidorov" id="923" />
+      <edge source="daniel.grassl_official" target="jun_july_august" id="924" />
+      <edge source="daniel.grassl_official" target="evgeniy__semenenko" id="925" />
+      <edge source="daniel.grassl_official" target="nikolajmemola" id="926" />
+      <edge source="victoria_sinitsina" target="kamilavalieva26" id="927" />
+      <edge source="victoria_sinitsina" target="azagitova" id="928" />
+      <edge source="victoria_sinitsina" target="avtrusova" id="929" />
+      <edge source="victoria_sinitsina" target="ninety.ninth" id="930" />
+      <edge source="victoria_sinitsina" target="dmitry_aliev" id="931" />
+      <edge source="victoria_sinitsina" target="a_gallyam" id="932" />
+      <edge source="victoria_sinitsina" target="liza_tuktik" id="933" />
+      <edge source="victoria_sinitsina" target="nikita_katsalapov" id="934" />
+      <edge source="victoria_sinitsina" target="_kaganovskay_14" id="935" />
+      <edge source="victoria_sinitsina" target="fire_bird" id="936" />
+      <edge source="victoria_sinitsina" target="jmedvedevaj" id="937" />
+      <edge source="victoria_sinitsina" target="xam_trankov" id="938" />
+      <edge source="victoria_sinitsina" target="dimakozlovski" id="939" />
+      <edge source="victoria_sinitsina" target="tessavirtue17" id="940" />
+      <edge source="victoria_sinitsina" target="nathanwchen" id="941" />
+      <edge source="victoria_sinitsina" target="ilia_quadg0d_malinin" id="942" />
+      <edge source="victoria_sinitsina" target="aleksandrastepanova" id="943" />
+      <edge source="victoria_sinitsina" target="ivan_bukin_" id="944" />
+      <edge source="victoria_sinitsina" target="guillaume_cizeron" id="945" />
+      <edge source="victoria_sinitsina" target="moriskvit" id="946" />
+      <edge source="victoria_sinitsina" target="pipergilles" id="947" />
+      <edge source="victoria_sinitsina" target="_tarasova_evg" id="948" />
+      <edge source="moriskvit" target="kamilavalieva26" id="949" />
+      <edge source="moriskvit" target="azagitova" id="950" />
+      <edge source="moriskvit" target="avtrusova" id="951" />
+      <edge source="moriskvit" target="anna__shcherbakova_" id="952" />
+      <edge source="moriskvit" target="adeliya_petrosian" id="953" />
+      <edge source="moriskvit" target="ninety.ninth" id="954" />
+      <edge source="moriskvit" target="dmitry_aliev" id="955" />
+      <edge source="moriskvit" target="a_gallyam" id="956" />
+      <edge source="moriskvit" target="liza_tuktik" id="957" />
+      <edge source="moriskvit" target="nikita_katsalapov" id="958" />
+      <edge source="moriskvit" target="aleksandraboikova" id="959" />
+      <edge source="moriskvit" target="aliona_officialnew" id="960" />
+      <edge source="moriskvit" target="_kaganovskay_14" id="961" />
+      <edge source="moriskvit" target="victoria_sinitsina" id="962" />
+      <edge source="moriskvit" target="fire_bird" id="963" />
+      <edge source="moriskvit" target="jmedvedevaj" id="964" />
+      <edge source="moriskvit" target="xam_trankov" id="965" />
+      <edge source="moriskvit" target="dimakozlovski" id="966" />
+      <edge source="moriskvit" target="nathanwchen" id="967" />
+      <edge source="moriskvit" target="ilia_quadg0d_malinin" id="968" />
+      <edge source="moriskvit" target="yuma_kagiyama15" id="969" />
+      <edge source="moriskvit" target="sofyasamodelkina" id="970" />
+      <edge source="moriskvit" target="glebsmolkin7" id="971" />
+      <edge source="moriskvit" target="wakababy_sk8r" id="972" />
+      <edge source="moriskvit" target="pinzarrone_nina" id="973" />
+      <edge source="moriskvit" target="petrykinaniina" id="974" />
+      <edge source="moriskvit" target="nastya_gubanchik" id="975" />
+      <edge source="moriskvit" target="ivan_bukin_" id="976" />
+      <edge source="moriskvit" target="isabeau.levito" id="977" />
+      <edge source="moriskvit" target="ekaterina_kurakova" id="978" />
+      <edge source="moriskvit" target="georgy_kunitsa13" id="979" />
+      <edge source="moriskvit" target="berulava__luka" id="980" />
+      <edge source="moriskvit" target="_tarasova_evg" id="981" />
+      <edge source="moriskvit" target="loenahendrickx" id="982" />
+      <edge source="moriskvit" target="metelkina_an" id="983" />
+      <edge source="moriskvit" target="tim.dieck" id="984" />
+      <edge source="moriskvit" target="di__davis" id="985" />
+      <edge source="deannamsd622" target="thelilahjoshow" id="986" />
+      <edge source="deannamsd622" target="ilia_quadg0d_malinin" id="987" />
+      <edge source="deannamsd622" target="liza_tuktik" id="988" />
+      <edge source="deannamsd622" target="aleksandraboikova" id="989" />
+      <edge source="deannamsd622" target="fire_bird" id="990" />
+      <edge source="deannamsd622" target="a_gallyam" id="991" />
+      <edge source="deannamsd622" target="jmedvedevaj" id="992" />
+      <edge source="deannamsd622" target="nastia_ice" id="993" />
+      <edge source="deannamsd622" target="xam_trankov" id="994" />
+      <edge source="deannamsd622" target="dimakozlovski" id="995" />
+      <edge source="deannamsd622" target="tessavirtue17" id="996" />
+      <edge source="deannamsd622" target="nathanwchen" id="997" />
+      <edge source="deannamsd622" target="minervahase" id="998" />
+      <edge source="deannamsd622" target="loenahendrickx" id="999" />
+      <edge source="deannamsd622" target="happy_haein05" id="1000" />
+      <edge source="deannamsd622" target="schluukas" id="1001" />
+      <edge source="deannamsd622" target="wenjingsui" id="1002" />
+      <edge source="deannamsd622" target="alysaxliu" id="1003" />
+      <edge source="deannamsd622" target="guillaume_cizeron" id="1004" />
+      <edge source="aleksandraboikova" target="azagitova" id="1005" />
+      <edge source="aleksandraboikova" target="kamilavalieva26" id="1006" />
+      <edge source="aleksandraboikova" target="avtrusova" id="1007" />
+      <edge source="aleksandraboikova" target="anna__shcherbakova_" id="1008" />
+      <edge source="aleksandraboikova" target="adeliya_petrosian" id="1009" />
+      <edge source="aleksandraboikova" target="sofia_muraveva_" id="1010" />
+      <edge source="aleksandraboikova" target="liza_tuktik" id="1011" />
+      <edge source="aleksandraboikova" target="nikita_katsalapov" id="1012" />
+      <edge source="aleksandraboikova" target="dmitry_aliev" id="1013" />
+      <edge source="aleksandraboikova" target="_kaganovskay_14" id="1014" />
+      <edge source="aleksandraboikova" target="fire_bird" id="1015" />
+      <edge source="aleksandraboikova" target="victoria_sinitsina" id="1016" />
+      <edge source="aleksandraboikova" target="aliona_officialnew" id="1017" />
+      <edge source="aleksandraboikova" target="jmedvedevaj" id="1018" />
+      <edge source="aleksandraboikova" target="dimakozlovski" id="1019" />
+      <edge source="aleksandraboikova" target="tessavirtue17" id="1020" />
+      <edge source="aleksandraboikova" target="nathanwchen" id="1021" />
+      <edge source="aleksandraboikova" target="nastya_gubanchik" id="1022" />
+      <edge source="aleksandraboikova" target="glebsmolkin7" id="1023" />
+      <edge source="aleksandraboikova" target="dariochirizano" id="1024" />
+      <edge source="aleksandraboikova" target="georgy_kunitsa13" id="1025" />
+      <edge source="aleksandraboikova" target="berulava__luka" id="1026" />
+      <edge source="aleksandraboikova" target="guillaume_cizeron" id="1027" />
+      <edge source="aleksandraboikova" target="ivan_bukin_" id="1028" />
+      <edge source="aleksandraboikova" target="petr_og" id="1029" />
+      <edge source="aleksandraboikova" target="metelkina_an" id="1030" />
+      <edge source="aleksandraboikova" target="evgeniy__semenenko" id="1031" />
+      <edge source="aleksandraboikova" target="moriskvit" id="1032" />
+      <edge source="aleksandraboikova" target="_tarasova_evg" id="1033" />
+      <edge source="aleksandraboikova" target="di__davis" id="1034" />
+      <edge source="aleksandraboikova" target="charleneguignard" id="1035" />
+      <edge source="aleksandraboikova" target="marcofabbri1988" id="1036" />
+      <edge source="aleksandraboikova" target="mskostner" id="1037" />
+      <edge source="aleksandraboikova" target="morozov_v92" id="1038" />
+      <edge source="aleksandraboikova" target="pchan31" id="1039" />
+      <edge source="aleksandraboikova" target="nika_egadze" id="1040" />
+      <edge source="aleksandraboikova" target="maiashibutani" id="1041" />
+      <edge source="aleksandraboikova" target="javierfernandezskater" id="1042" />
+      <edge source="adeliya_petrosian" target="yunakim" id="1043" />
+      <edge source="adeliya_petrosian" target="anna__shcherbakova_" id="1044" />
+      <edge source="adeliya_petrosian" target="liza_tuktik" id="1045" />
+      <edge source="adeliya_petrosian" target="dmitry_aliev" id="1046" />
+      <edge source="adeliya_petrosian" target="_kaganovskay_14" id="1047" />
+      <edge source="adeliya_petrosian" target="aleksandraboikova" id="1048" />
+      <edge source="adeliya_petrosian" target="fire_bird" id="1049" />
+      <edge source="adeliya_petrosian" target="jmedvedevaj" id="1050" />
+      <edge source="adeliya_petrosian" target="nathanwchen" id="1051" />
+      <edge source="adeliya_petrosian" target="yuzuruofficial_" id="1052" />
+      <edge source="adeliya_petrosian" target="_vladislav_dikidzhi_" id="1053" />
+      <edge source="adeliya_petrosian" target="_tarasova_evg" id="1054" />
+      <edge source="adeliya_petrosian" target="ivan_bukin_" id="1055" />
+      <edge source="adeliya_petrosian" target="berulava__luka" id="1056" />
+      <edge source="adeliya_petrosian" target="georgy_kunitsa13" id="1057" />
+      <edge source="adeliya_petrosian" target="di__davis" id="1058" />
+      <edge source="adeliya_petrosian" target="evgeniy__semenenko" id="1059" />
+      <edge source="adeliya_petrosian" target="moriskvit" id="1060" />
+      <edge source="adeliya_petrosian" target="nikolajmemola" id="1061" />
+      <edge source="adeliya_petrosian" target="daniel.grassl_official" id="1062" />
+      <edge source="adeliya_petrosian" target="morozov_v92" id="1063" />
+      <edge source="adeliya_petrosian" target="javierfernandezskater" id="1064" />
+      <edge source="rikaskate0721" target="azagitova" id="1065" />
+      <edge source="rikaskate0721" target="kamilavalieva26" id="1066" />
+      <edge source="rikaskate0721" target="avtrusova" id="1067" />
+      <edge source="rikaskate0721" target="anna__shcherbakova_" id="1068" />
+      <edge source="rikaskate0721" target="liza_tuktik" id="1069" />
+      <edge source="rikaskate0721" target="aliona_officialnew" id="1070" />
+      <edge source="rikaskate0721" target="jmedvedevaj" id="1071" />
+      <edge source="rikaskate0721" target="tessavirtue17" id="1072" />
+      <edge source="rikaskate0721" target="nathanwchen" id="1073" />
+      <edge source="rikaskate0721" target="yuzuruofficial_" id="1074" />
+      <edge source="rikaskate0721" target="kihara_ryuichi" id="1075" />
+      <edge source="rikaskate0721" target="ilia_quadg0d_malinin" id="1076" />
+      <edge source="rikaskate0721" target="ekaterina_kurakova" id="1077" />
+      <edge source="rikaskate0721" target="gabriellapapadakis" id="1078" />
+      <edge source="rikaskate0721" target="nastya_gubanchik" id="1079" />
+      <edge source="rikaskate0721" target="wakababy_sk8r" id="1080" />
+      <edge source="rikaskate0721" target="happy_haein05" id="1081" />
+      <edge source="rikaskate0721" target="yuma_kagiyama15" id="1082" />
+      <edge source="rikaskate0721" target="yunakim" id="1083" />
+      <edge source="rikaskate0721" target="thelilahjoshow" id="1084" />
+      <edge source="rikaskate0721" target="pipergilles" id="1085" />
+      <edge source="rikaskate0721" target="loenahendrickx" id="1086" />
+      <edge source="rikaskate0721" target="alysaxliu" id="1087" />
+      <edge source="aleksandrselevko" target="kamilavalieva26" id="1088" />
+      <edge source="aleksandrselevko" target="azagitova" id="1089" />
+      <edge source="aleksandrselevko" target="avtrusova" id="1090" />
+      <edge source="aleksandrselevko" target="nastia_ice" id="1091" />
+      <edge source="aleksandrselevko" target="anna__shcherbakova_" id="1092" />
+      <edge source="aleksandrselevko" target="ninety.ninth" id="1093" />
+      <edge source="aleksandrselevko" target="dmitry_aliev" id="1094" />
+      <edge source="aleksandrselevko" target="a_gallyam" id="1095" />
+      <edge source="aleksandrselevko" target="liza_tuktik" id="1096" />
+      <edge source="aleksandrselevko" target="aliona_officialnew" id="1097" />
+      <edge source="aleksandrselevko" target="fire_bird" id="1098" />
+      <edge source="aleksandrselevko" target="jmedvedevaj" id="1099" />
+      <edge source="aleksandrselevko" target="xam_trankov" id="1100" />
+      <edge source="aleksandrselevko" target="nathanwchen" id="1101" />
+      <edge source="aleksandrselevko" target="yuzuruofficial_" id="1102" />
+      <edge source="aleksandrselevko" target="ilia_quadg0d_malinin" id="1103" />
+      <edge source="aleksandrselevko" target="yuma_kagiyama15" id="1104" />
+      <edge source="aleksandrselevko" target="maxim_nekrasov_" id="1105" />
+      <edge source="aleksandrselevko" target="petr_og" id="1106" />
+      <edge source="aleksandrselevko" target="thelilahjoshow" id="1107" />
+      <edge source="aleksandrselevko" target="sofyasamodelkina" id="1108" />
+      <edge source="aleksandrselevko" target="minervahase" id="1109" />
+      <edge source="aleksandrselevko" target="happy_haein05" id="1110" />
+      <edge source="aleksandrselevko" target="nikivolod2" id="1111" />
+      <edge source="aleksandrselevko" target="glebsmolkin7" id="1112" />
+      <edge source="aleksandrselevko" target="pinzarrone_nina" id="1113" />
+      <edge source="aleksandrselevko" target="schluukas" id="1114" />
+      <edge source="aleksandrselevko" target="alysaxliu" id="1115" />
+      <edge source="aleksandrselevko" target="yunakim" id="1116" />
+      <edge source="aleksandrselevko" target="nastya_gubanchik" id="1117" />
+      <edge source="aleksandrselevko" target="ekaterina_kurakova" id="1118" />
+      <edge source="aleksandrselevko" target="berulava__luka" id="1119" />
+      <edge source="aleksandrselevko" target="di__davis" id="1120" />
+      <edge source="aleksandrselevko" target="guillaume_cizeron" id="1121" />
+      <edge source="aleksandrselevko" target="metelkina_an" id="1122" />
+      <edge source="pauldpoirier" target="nathanwchen" id="1123" />
+      <edge source="pauldpoirier" target="yuzuruofficial_" id="1124" />
+      <edge source="pauldpoirier" target="kihara_ryuichi" id="1125" />
+      <edge source="pauldpoirier" target="ilia_quadg0d_malinin" id="1126" />
+      <edge source="pauldpoirier" target="minervahase" id="1127" />
+      <edge source="pauldpoirier" target="wakababy_sk8r" id="1128" />
+      <edge source="pauldpoirier" target="wenjingsui" id="1129" />
+      <edge source="pauldpoirier" target="rikaskate0721" id="1130" />
+      <edge source="pauldpoirier" target="isabeau.levito" id="1131" />
+      <edge source="pauldpoirier" target="riku9111" id="1132" />
+      <edge source="pauldpoirier" target="loenahendrickx" id="1133" />
+      <edge source="pauldpoirier" target="pipergilles" id="1134" />
+      <edge source="pauldpoirier" target="gabriellapapadakis" id="1135" />
+      <edge source="pauldpoirier" target="guillaume_cizeron" id="1136" />
+      <edge source="pauldpoirier" target="jun_july_august" id="1137" />
+      <edge source="aleksandrastepanova" target="dmitry_aliev" id="1138" />
+      <edge source="aleksandrastepanova" target="jmedvedevaj" id="1139" />
+      <edge source="aleksandrastepanova" target="ivan_bukin_" id="1140" />
+      <edge source="aleksandrastepanova" target="_tarasova_evg" id="1141" />
+      <edge source="saraconti_00" target="azagitova" id="1142" />
+      <edge source="saraconti_00" target="liza_tuktik" id="1143" />
+      <edge source="saraconti_00" target="dmitry_aliev" id="1144" />
+      <edge source="saraconti_00" target="aleksandraboikova" id="1145" />
+      <edge source="saraconti_00" target="fire_bird" id="1146" />
+      <edge source="saraconti_00" target="victoria_sinitsina" id="1147" />
+      <edge source="saraconti_00" target="aliona_officialnew" id="1148" />
+      <edge source="saraconti_00" target="jmedvedevaj" id="1149" />
+      <edge source="saraconti_00" target="nastia_ice" id="1150" />
+      <edge source="saraconti_00" target="xam_trankov" id="1151" />
+      <edge source="saraconti_00" target="dimakozlovski" id="1152" />
+      <edge source="saraconti_00" target="nathanwchen" id="1153" />
+      <edge source="saraconti_00" target="kihara_ryuichi" id="1154" />
+      <edge source="saraconti_00" target="ilia_quadg0d_malinin" id="1155" />
+      <edge source="saraconti_00" target="nikivolod2" id="1156" />
+      <edge source="saraconti_00" target="thelilahjoshow" id="1157" />
+      <edge source="saraconti_00" target="minervahase" id="1158" />
+      <edge source="saraconti_00" target="nastya_gubanchik" id="1159" />
+      <edge source="saraconti_00" target="glebsmolkin7" id="1160" />
+      <edge source="saraconti_00" target="gabriellapapadakis" id="1161" />
+      <edge source="saraconti_00" target="pipergilles" id="1162" />
+      <edge source="xam_trankov" target="maxim_nekrasov_" id="1163" />
+      <edge source="xam_trankov" target="kamilavalieva26" id="1164" />
+      <edge source="xam_trankov" target="avtrusova" id="1165" />
+      <edge source="xam_trankov" target="anna__shcherbakova_" id="1166" />
+      <edge source="xam_trankov" target="adeliya_petrosian" id="1167" />
+      <edge source="xam_trankov" target="ninety.ninth" id="1168" />
+      <edge source="xam_trankov" target="dmitry_aliev" id="1169" />
+      <edge source="xam_trankov" target="a_gallyam" id="1170" />
+      <edge source="xam_trankov" target="liza_tuktik" id="1171" />
+      <edge source="xam_trankov" target="nikita_katsalapov" id="1172" />
+      <edge source="xam_trankov" target="_kaganovskay_14" id="1173" />
+      <edge source="xam_trankov" target="victoria_sinitsina" id="1174" />
+      <edge source="xam_trankov" target="fire_bird" id="1175" />
+      <edge source="xam_trankov" target="jmedvedevaj" id="1176" />
+      <edge source="xam_trankov" target="tessavirtue17" id="1177" />
+      <edge source="xam_trankov" target="nathanwchen" id="1178" />
+      <edge source="xam_trankov" target="glebsmolkin7" id="1179" />
+      <edge source="xam_trankov" target="_vladislav_dikidzhi_" id="1180" />
+      <edge source="xam_trankov" target="berulava__luka" id="1181" />
+      <edge source="xam_trankov" target="petr_og" id="1182" />
+      <edge source="xam_trankov" target="guillaume_cizeron" id="1183" />
+      <edge source="xam_trankov" target="ivan_bukin_" id="1184" />
+      <edge source="xam_trankov" target="_tarasova_evg" id="1185" />
+      <edge source="xam_trankov" target="moriskvit" id="1186" />
+      <edge source="xam_trankov" target="madisonchock" id="1187" />
+      <edge source="xam_trankov" target="mikhail_shaidorov" id="1188" />
+      <edge source="xam_trankov" target="ericradford85" id="1189" />
+      <edge source="xam_trankov" target="morozov_v92" id="1190" />
+      <edge source="ericradford85" target="kamilavalieva26" id="1191" />
+      <edge source="ericradford85" target="liza_tuktik" id="1192" />
+      <edge source="ericradford85" target="nikita_katsalapov" id="1193" />
+      <edge source="ericradford85" target="victoria_sinitsina" id="1194" />
+      <edge source="ericradford85" target="fire_bird" id="1195" />
+      <edge source="ericradford85" target="jmedvedevaj" id="1196" />
+      <edge source="ericradford85" target="xam_trankov" id="1197" />
+      <edge source="ericradford85" target="nathanwchen" id="1198" />
+      <edge source="ericradford85" target="kihara_ryuichi" id="1199" />
+      <edge source="ericradford85" target="ilia_quadg0d_malinin" id="1200" />
+      <edge source="ericradford85" target="wakababy_sk8r" id="1201" />
+      <edge source="ericradford85" target="riku9111" id="1202" />
+      <edge source="ericradford85" target="wenjingsui" id="1203" />
+      <edge source="ericradford85" target="guillaume_cizeron" id="1204" />
+      <edge source="ericradford85" target="schluukas" id="1205" />
+      <edge source="pchan31" target="ilia_quadg0d_malinin" id="1206" />
+      <edge source="pchan31" target="liza_tuktik" id="1207" />
+      <edge source="pchan31" target="nikita_katsalapov" id="1208" />
+      <edge source="pchan31" target="victoria_sinitsina" id="1209" />
+      <edge source="pchan31" target="fire_bird" id="1210" />
+      <edge source="pchan31" target="xam_trankov" id="1211" />
+      <edge source="pchan31" target="nathanwchen" id="1212" />
+      <edge source="pchan31" target="yunakim" id="1213" />
+      <edge source="pchan31" target="loenahendrickx" id="1214" />
+      <edge source="pchan31" target="guillaume_cizeron" id="1215" />
+      <edge source="pchan31" target="oliviasmartx" id="1216" />
+      <edge source="pchan31" target="scottmoir14" id="1217" />
+      <edge source="pchan31" target="kiira_korpi" id="1218" />
+      <edge source="pchan31" target="maximedeschamps" id="1219" />
+      <edge source="pchan31" target="han.cong" id="1220" />
+      <edge source="nikita_katsalapov" target="kamilavalieva26" id="1221" />
+      <edge source="nikita_katsalapov" target="azagitova" id="1222" />
+      <edge source="nikita_katsalapov" target="avtrusova" id="1223" />
+      <edge source="nikita_katsalapov" target="anna__shcherbakova_" id="1224" />
+      <edge source="nikita_katsalapov" target="ninety.ninth" id="1225" />
+      <edge source="nikita_katsalapov" target="dmitry_aliev" id="1226" />
+      <edge source="nikita_katsalapov" target="liza_tuktik" id="1227" />
+      <edge source="nikita_katsalapov" target="_kaganovskay_14" id="1228" />
+      <edge source="nikita_katsalapov" target="victoria_sinitsina" id="1229" />
+      <edge source="nikita_katsalapov" target="jmedvedevaj" id="1230" />
+      <edge source="nikita_katsalapov" target="xam_trankov" id="1231" />
+      <edge source="nikita_katsalapov" target="tessavirtue17" id="1232" />
+      <edge source="nikita_katsalapov" target="nathanwchen" id="1233" />
+      <edge source="nikita_katsalapov" target="ilia_quadg0d_malinin" id="1234" />
+      <edge source="nikita_katsalapov" target="moriskvit" id="1235" />
+      <edge source="nikita_katsalapov" target="_tarasova_evg" id="1236" />
+      <edge source="nikita_katsalapov" target="mikhail_shaidorov" id="1237" />
+      <edge source="nikita_katsalapov" target="scottmoir14" id="1238" />
+      <edge source="nikita_katsalapov" target="mikhail_kolyada" id="1239" />
+      <edge source="nikita_katsalapov" target="morozov_v92" id="1240" />
+      <edge source="nikita_katsalapov" target="pchan31" id="1241" />
+      <edge source="nikita_katsalapov" target="javierfernandezskater" id="1242" />
+      <edge source="schluukas" target="kamilavalieva26" id="1243" />
+      <edge source="schluukas" target="azagitova" id="1244" />
+      <edge source="schluukas" target="avtrusova" id="1245" />
+      <edge source="schluukas" target="liza_tuktik" id="1246" />
+      <edge source="schluukas" target="jmedvedevaj" id="1247" />
+      <edge source="schluukas" target="nathanwchen" id="1248" />
+      <edge source="schluukas" target="thelilahjoshow" id="1249" />
+      <edge source="schluukas" target="ilia_quadg0d_malinin" id="1250" />
+      <edge source="schluukas" target="yuma_kagiyama15" id="1251" />
+      <edge source="schluukas" target="minervahase" id="1252" />
+      <edge source="schluukas" target="nastya_gubanchik" id="1253" />
+      <edge source="schluukas" target="petrykinaniina" id="1254" />
+      <edge source="schluukas" target="isabeau.levito" id="1255" />
+      <edge source="schluukas" target="ekaterina_kurakova" id="1256" />
+      <edge source="schluukas" target="berulava__luka" id="1257" />
+      <edge source="schluukas" target="guillaume_cizeron" id="1258" />
+      <edge source="schluukas" target="metelkina_an" id="1259" />
+      <edge source="schluukas" target="adam.siao" id="1260" />
+      <edge source="schluukas" target="mikhail_shaidorov" id="1261" />
+      <edge source="schluukas" target="di__davis" id="1262" />
+      <edge source="schluukas" target="jun_july_august" id="1263" />
+      <edge source="schluukas" target="nikolajmemola" id="1264" />
+      <edge source="schluukas" target="loenahendrickx" id="1265" />
+      <edge source="schluukas" target="oliviasmartx" id="1266" />
+      <edge source="schluukas" target="saraconti_00" id="1267" />
+      <edge source="schluukas" target="kevin_aymoz" id="1268" />
+      <edge source="schluukas" target="maximedeschamps" id="1269" />
+      <edge source="schluukas" target="nika_egadze" id="1270" />
+      <edge source="schluukas" target="ericradford85" id="1271" />
+      <edge source="schluukas" target="lewisgibson4" id="1272" />
+      <edge source="schluukas" target="jasonbskates" id="1273" />
+      <edge source="_vladislav_dikidzhi_" target="anna__shcherbakova_" id="1274" />
+      <edge source="_vladislav_dikidzhi_" target="adeliya_petrosian" id="1275" />
+      <edge source="_vladislav_dikidzhi_" target="ninety.ninth" id="1276" />
+      <edge source="_vladislav_dikidzhi_" target="_kaganovskay_14" id="1277" />
+      <edge source="_vladislav_dikidzhi_" target="xam_trankov" id="1278" />
+      <edge source="_vladislav_dikidzhi_" target="nastya_gubanchik" id="1279" />
+      <edge source="_vladislav_dikidzhi_" target="georgy_kunitsa13" id="1280" />
+      <edge source="_vladislav_dikidzhi_" target="evgeniy__semenenko" id="1281" />
+      <edge source="_vladislav_dikidzhi_" target="di__davis" id="1282" />
+      <edge source="_vladislav_dikidzhi_" target="mskostner" id="1283" />
+      <edge source="a_gallyam" target="nikivolod2" id="1284" />
+      <edge source="a_gallyam" target="avtrusova" id="1285" />
+      <edge source="a_gallyam" target="anna__shcherbakova_" id="1286" />
+      <edge source="a_gallyam" target="dmitry_aliev" id="1287" />
+      <edge source="a_gallyam" target="ninety.ninth" id="1288" />
+      <edge source="a_gallyam" target="_kaganovskay_14" id="1289" />
+      <edge source="a_gallyam" target="fire_bird" id="1290" />
+      <edge source="a_gallyam" target="victoria_sinitsina" id="1291" />
+      <edge source="a_gallyam" target="aliona_officialnew" id="1292" />
+      <edge source="a_gallyam" target="jmedvedevaj" id="1293" />
+      <edge source="a_gallyam" target="nastia_ice" id="1294" />
+      <edge source="a_gallyam" target="xam_trankov" id="1295" />
+      <edge source="a_gallyam" target="nastya_gubanchik" id="1296" />
+      <edge source="a_gallyam" target="aleksandrselevko" id="1297" />
+      <edge source="a_gallyam" target="ivan_bukin_" id="1298" />
+      <edge source="a_gallyam" target="berulava__luka" id="1299" />
+      <edge source="a_gallyam" target="moriskvit" id="1300" />
+      <edge source="a_gallyam" target="daniel.grassl_official" id="1301" />
+      <edge source="a_gallyam" target="morozov_v92" id="1302" />
+      <edge source="a_gallyam" target="nika_egadze" id="1303" />
+      <edge source="dariochirizano" target="aleksandraboikova" id="1304" />
+      <edge source="dariochirizano" target="tim.dieck" id="1305" />
+      <edge source="dariochirizano" target="elizaveta_pasechnikkk" id="1306" />
+      <edge source="nika_egadze" target="avtrusova" id="1307" />
+      <edge source="nika_egadze" target="anna__shcherbakova_" id="1308" />
+      <edge source="nika_egadze" target="sofia_muraveva_" id="1309" />
+      <edge source="nika_egadze" target="adeliya_petrosian" id="1310" />
+      <edge source="nika_egadze" target="ninety.ninth" id="1311" />
+      <edge source="nika_egadze" target="dmitry_aliev" id="1312" />
+      <edge source="nika_egadze" target="a_gallyam" id="1313" />
+      <edge source="nika_egadze" target="liza_tuktik" id="1314" />
+      <edge source="nika_egadze" target="aleksandraboikova" id="1315" />
+      <edge source="nika_egadze" target="aliona_officialnew" id="1316" />
+      <edge source="nika_egadze" target="_kaganovskay_14" id="1317" />
+      <edge source="nika_egadze" target="victoria_sinitsina" id="1318" />
+      <edge source="nika_egadze" target="fire_bird" id="1319" />
+      <edge source="nika_egadze" target="xam_trankov" id="1320" />
+      <edge source="nika_egadze" target="dimakozlovski" id="1321" />
+      <edge source="nika_egadze" target="nathanwchen" id="1322" />
+      <edge source="nika_egadze" target="ilia_quadg0d_malinin" id="1323" />
+      <edge source="nika_egadze" target="sofyasamodelkina" id="1324" />
+      <edge source="nika_egadze" target="minervahase" id="1325" />
+      <edge source="nika_egadze" target="petrykinaniina" id="1326" />
+      <edge source="nika_egadze" target="aleksandrselevko" id="1327" />
+      <edge source="nika_egadze" target="happy_haein05" id="1328" />
+      <edge source="nika_egadze" target="nikivolod2" id="1329" />
+      <edge source="nika_egadze" target="glebsmolkin7" id="1330" />
+      <edge source="nika_egadze" target="pinzarrone_nina" id="1331" />
+      <edge source="nika_egadze" target="nastya_gubanchik" id="1332" />
+      <edge source="nika_egadze" target="_tarasova_evg" id="1333" />
+      <edge source="nika_egadze" target="berulava__luka" id="1334" />
+      <edge source="nika_egadze" target="moriskvit" id="1335" />
+      <edge source="nika_egadze" target="metelkina_an" id="1336" />
+      <edge source="nika_egadze" target="adam.siao" id="1337" />
+      <edge source="nika_egadze" target="mikhail_shaidorov" id="1338" />
+      <edge source="madisonchock" target="thelilahjoshow" id="1339" />
+      <edge source="madisonchock" target="azagitova" id="1340" />
+      <edge source="madisonchock" target="avtrusova" id="1341" />
+      <edge source="madisonchock" target="anna__shcherbakova_" id="1342" />
+      <edge source="madisonchock" target="liza_tuktik" id="1343" />
+      <edge source="madisonchock" target="victoria_sinitsina" id="1344" />
+      <edge source="madisonchock" target="fire_bird" id="1345" />
+      <edge source="madisonchock" target="jmedvedevaj" id="1346" />
+      <edge source="madisonchock" target="xam_trankov" id="1347" />
+      <edge source="madisonchock" target="tessavirtue17" id="1348" />
+      <edge source="madisonchock" target="nathanwchen" id="1349" />
+      <edge source="madisonchock" target="yuma_kagiyama15" id="1350" />
+      <edge source="madisonchock" target="wakababy_sk8r" id="1351" />
+      <edge source="madisonchock" target="ilia_quadg0d_malinin" id="1352" />
+      <edge source="madisonchock" target="glebsmolkin7" id="1353" />
+      <edge source="madisonchock" target="wenjingsui" id="1354" />
+      <edge source="madisonchock" target="_tarasova_evg" id="1355" />
+      <edge source="madisonchock" target="loenahendrickx" id="1356" />
+      <edge source="madisonchock" target="isabeau.levito" id="1357" />
+      <edge source="madisonchock" target="guillaume_cizeron" id="1358" />
+      <edge source="madisonchock" target="di__davis" id="1359" />
+      <edge source="madisonchock" target="jun_july_august" id="1360" />
+      <edge source="madisonchock" target="meaganduhamel" id="1361" />
+      <edge source="madisonchock" target="scottmoir14" id="1362" />
+      <edge source="madisonchock" target="oliviasmartx" id="1363" />
+      <edge source="madisonchock" target="kiira_korpi" id="1364" />
+      <edge source="madisonchock" target="morozov_v92" id="1365" />
+      <edge source="madisonchock" target="pauldpoirier" id="1366" />
+      <edge source="madisonchock" target="kevin_aymoz" id="1367" />
+      <edge source="madisonchock" target="jasonbskates" id="1368" />
+      <edge source="madisonchock" target="marcofabbri1988" id="1369" />
+      <edge source="madisonchock" target="evan_bates" id="1370" />
+      <edge source="madisonchock" target="ericradford85" id="1371" />
+      <edge source="madisonchock" target="lewisgibson4" id="1372" />
+      <edge source="madisonchock" target="aljonasavchenko" id="1373" />
+      <edge source="pipergilles" target="kamilavalieva26" id="1374" />
+      <edge source="pipergilles" target="azagitova" id="1375" />
+      <edge source="pipergilles" target="avtrusova" id="1376" />
+      <edge source="pipergilles" target="liza_tuktik" id="1377" />
+      <edge source="pipergilles" target="nikita_katsalapov" id="1378" />
+      <edge source="pipergilles" target="victoria_sinitsina" id="1379" />
+      <edge source="pipergilles" target="fire_bird" id="1380" />
+      <edge source="pipergilles" target="jmedvedevaj" id="1381" />
+      <edge source="pipergilles" target="tessavirtue17" id="1382" />
+      <edge source="pipergilles" target="nathanwchen" id="1383" />
+      <edge source="pipergilles" target="yuzuruofficial_" id="1384" />
+      <edge source="pipergilles" target="yuma_kagiyama15" id="1385" />
+      <edge source="pipergilles" target="ilia_quadg0d_malinin" id="1386" />
+      <edge source="pipergilles" target="minervahase" id="1387" />
+      <edge source="pipergilles" target="alysaxliu" id="1388" />
+      <edge source="pipergilles" target="yunakim" id="1389" />
+      <edge source="pipergilles" target="gabriellapapadakis" id="1390" />
+      <edge source="pipergilles" target="riku9111" id="1391" />
+      <edge source="pipergilles" target="isabeau.levito" id="1392" />
+      <edge source="pipergilles" target="loenahendrickx" id="1393" />
+      <edge source="pipergilles" target="di__davis" id="1394" />
+      <edge source="kaetkiss" target="xam_trankov" id="1395" />
+      <edge source="kaetkiss" target="tessavirtue17" id="1396" />
+      <edge source="kaetkiss" target="gabriellapapadakis" id="1397" />
+      <edge source="liza_nugumanova_" target="sofyasamodelkina" id="1398" />
+      <edge source="liza_nugumanova_" target="avtrusova" id="1399" />
+      <edge source="liza_nugumanova_" target="anna__shcherbakova_" id="1400" />
+      <edge source="liza_nugumanova_" target="sofia_muraveva_" id="1401" />
+      <edge source="liza_nugumanova_" target="liza_tuktik" id="1402" />
+      <edge source="liza_nugumanova_" target="aliona_officialnew" id="1403" />
+      <edge source="liza_nugumanova_" target="jmedvedevaj" id="1404" />
+      <edge source="maximedeschamps" target="ilia_quadg0d_malinin" id="1405" />
+      <edge source="maximedeschamps" target="azagitova" id="1406" />
+      <edge source="maximedeschamps" target="kamilavalieva26" id="1407" />
+      <edge source="maximedeschamps" target="avtrusova" id="1408" />
+      <edge source="maximedeschamps" target="anna__shcherbakova_" id="1409" />
+      <edge source="maximedeschamps" target="liza_tuktik" id="1410" />
+      <edge source="maximedeschamps" target="aleksandraboikova" id="1411" />
+      <edge source="maximedeschamps" target="fire_bird" id="1412" />
+      <edge source="maximedeschamps" target="aliona_officialnew" id="1413" />
+      <edge source="maximedeschamps" target="jmedvedevaj" id="1414" />
+      <edge source="maximedeschamps" target="nastia_ice" id="1415" />
+      <edge source="maximedeschamps" target="xam_trankov" id="1416" />
+      <edge source="maximedeschamps" target="tessavirtue17" id="1417" />
+      <edge source="maximedeschamps" target="yuzuruofficial_" id="1418" />
+      <edge source="maximedeschamps" target="kihara_ryuichi" id="1419" />
+      <edge source="maximedeschamps" target="thelilahjoshow" id="1420" />
+      <edge source="maximedeschamps" target="minervahase" id="1421" />
+      <edge source="maximedeschamps" target="yuma_kagiyama15" id="1422" />
+      <edge source="maximedeschamps" target="happy_haein05" id="1423" />
+      <edge source="maximedeschamps" target="rikaskate0721" id="1424" />
+      <edge source="maximedeschamps" target="alysaxliu" id="1425" />
+      <edge source="maximedeschamps" target="ekaterina_kurakova" id="1426" />
+      <edge source="maximedeschamps" target="isabeau.levito" id="1427" />
+      <edge source="maximedeschamps" target="riku9111" id="1428" />
+      <edge source="maximedeschamps" target="guillaume_cizeron" id="1429" />
+      <edge source="maximedeschamps" target="pipergilles" id="1430" />
+      <edge source="maximedeschamps" target="loenahendrickx" id="1431" />
+      <edge source="wakababy_sk8r" target="avtrusova" id="1432" />
+      <edge source="wakababy_sk8r" target="anna__shcherbakova_" id="1433" />
+      <edge source="wakababy_sk8r" target="liza_tuktik" id="1434" />
+      <edge source="wakababy_sk8r" target="fire_bird" id="1435" />
+      <edge source="wakababy_sk8r" target="aliona_officialnew" id="1436" />
+      <edge source="wakababy_sk8r" target="jmedvedevaj" id="1437" />
+      <edge source="wakababy_sk8r" target="nathanwchen" id="1438" />
+      <edge source="wakababy_sk8r" target="kihara_ryuichi" id="1439" />
+      <edge source="wakababy_sk8r" target="ilia_quadg0d_malinin" id="1440" />
+      <edge source="wakababy_sk8r" target="sofyasamodelkina" id="1441" />
+      <edge source="wakababy_sk8r" target="ekaterina_kurakova" id="1442" />
+      <edge source="wakababy_sk8r" target="happy_haein05" id="1443" />
+      <edge source="wakababy_sk8r" target="rikaskate0721" id="1444" />
+      <edge source="wakababy_sk8r" target="yuma_kagiyama15" id="1445" />
+      <edge source="wakababy_sk8r" target="yunakim" id="1446" />
+      <edge source="wakababy_sk8r" target="alysaxliu" id="1447" />
+      <edge source="wakababy_sk8r" target="kiira_korpi" id="1448" />
+      <edge source="wakababy_sk8r" target="thelilahjoshow" id="1449" />
+      <edge source="wakababy_sk8r" target="pipergilles" id="1450" />
+      <edge source="wakababy_sk8r" target="wenjingsui" id="1451" />
+      <edge source="wakababy_sk8r" target="tim.dieck" id="1452" />
+      <edge source="govincentzhou" target="ilia_quadg0d_malinin" id="1453" />
+      <edge source="govincentzhou" target="ninety.ninth" id="1454" />
+      <edge source="govincentzhou" target="dmitry_aliev" id="1455" />
+      <edge source="govincentzhou" target="liza_tuktik" id="1456" />
+      <edge source="govincentzhou" target="aliona_officialnew" id="1457" />
+      <edge source="govincentzhou" target="jmedvedevaj" id="1458" />
+      <edge source="govincentzhou" target="tessavirtue17" id="1459" />
+      <edge source="govincentzhou" target="nathanwchen" id="1460" />
+      <edge source="govincentzhou" target="yuzuruofficial_" id="1461" />
+      <edge source="govincentzhou" target="yuma_kagiyama15" id="1462" />
+      <edge source="govincentzhou" target="wakababy_sk8r" id="1463" />
+      <edge source="govincentzhou" target="aleksandrselevko" id="1464" />
+      <edge source="govincentzhou" target="schluukas" id="1465" />
+      <edge source="govincentzhou" target="yunakim" id="1466" />
+      <edge source="govincentzhou" target="rikaskate0721" id="1467" />
+      <edge source="govincentzhou" target="wenjingsui" id="1468" />
+      <edge source="govincentzhou" target="isabeau.levito" id="1469" />
+      <edge source="govincentzhou" target="guillaume_cizeron" id="1470" />
+      <edge source="govincentzhou" target="_chaeyeon.kim" id="1471" />
+      <edge source="govincentzhou" target="adam.siao" id="1472" />
+      <edge source="govincentzhou" target="alysaxliu" id="1473" />
+      <edge source="govincentzhou" target="pipergilles" id="1474" />
+      <edge source="govincentzhou" target="daniel.grassl_official" id="1475" />
+      <edge source="govincentzhou" target="kevin_aymoz" id="1476" />
+      <edge source="govincentzhou" target="kiira_korpi" id="1477" />
+      <edge source="govincentzhou" target="han.cong" id="1478" />
+      <edge source="govincentzhou" target="jasonbskates" id="1479" />
+      <edge source="govincentzhou" target="evan_bates" id="1480" />
+      <edge source="govincentzhou" target="amberglenniceskater" id="1481" />
+      <edge source="govincentzhou" target="aljonasavchenko" id="1482" />
+      <edge source="govincentzhou" target="pchan31" id="1483" />
+      <edge source="govincentzhou" target="alexshibutani" id="1484" />
+      <edge source="_tarasova_evg" target="kamilavalieva26" id="1485" />
+      <edge source="_tarasova_evg" target="avtrusova" id="1486" />
+      <edge source="_tarasova_evg" target="anna__shcherbakova_" id="1487" />
+      <edge source="_tarasova_evg" target="adeliya_petrosian" id="1488" />
+      <edge source="_tarasova_evg" target="liza_tuktik" id="1489" />
+      <edge source="_tarasova_evg" target="nikita_katsalapov" id="1490" />
+      <edge source="_tarasova_evg" target="dmitry_aliev" id="1491" />
+      <edge source="_tarasova_evg" target="ninety.ninth" id="1492" />
+      <edge source="_tarasova_evg" target="_kaganovskay_14" id="1493" />
+      <edge source="_tarasova_evg" target="aleksandraboikova" id="1494" />
+      <edge source="_tarasova_evg" target="fire_bird" id="1495" />
+      <edge source="_tarasova_evg" target="a_gallyam" id="1496" />
+      <edge source="_tarasova_evg" target="victoria_sinitsina" id="1497" />
+      <edge source="_tarasova_evg" target="jmedvedevaj" id="1498" />
+      <edge source="_tarasova_evg" target="nastia_ice" id="1499" />
+      <edge source="_tarasova_evg" target="xam_trankov" id="1500" />
+      <edge source="_tarasova_evg" target="tessavirtue17" id="1501" />
+      <edge source="_tarasova_evg" target="nathanwchen" id="1502" />
+      <edge source="_tarasova_evg" target="sofyasamodelkina" id="1503" />
+      <edge source="_tarasova_evg" target="gabriellapapadakis" id="1504" />
+      <edge source="_tarasova_evg" target="glebsmolkin7" id="1505" />
+      <edge source="kihara_ryuichi" target="ilia_quadg0d_malinin" id="1506" />
+      <edge source="kihara_ryuichi" target="wakababy_sk8r" id="1507" />
+      <edge source="kihara_ryuichi" target="yuma_kagiyama15" id="1508" />
+      <edge source="kihara_ryuichi" target="pipergilles" id="1509" />
+      <edge source="kihara_ryuichi" target="rikaskate0721" id="1510" />
+      <edge source="kihara_ryuichi" target="riku9111" id="1511" />
+      <edge source="kihara_ryuichi" target="kevin_aymoz" id="1512" />
+      <edge source="kihara_ryuichi" target="meaganduhamel" id="1513" />
+      <edge source="kihara_ryuichi" target="ericradford85" id="1514" />
+      <edge source="kihara_ryuichi" target="pauldpoirier" id="1515" />
+      <edge source="charleneguignard" target="kamilavalieva26" id="1516" />
+      <edge source="charleneguignard" target="anna__shcherbakova_" id="1517" />
+      <edge source="charleneguignard" target="a_gallyam" id="1518" />
+      <edge source="charleneguignard" target="nikita_katsalapov" id="1519" />
+      <edge source="charleneguignard" target="aleksandraboikova" id="1520" />
+      <edge source="charleneguignard" target="aliona_officialnew" id="1521" />
+      <edge source="charleneguignard" target="victoria_sinitsina" id="1522" />
+      <edge source="charleneguignard" target="fire_bird" id="1523" />
+      <edge source="charleneguignard" target="jmedvedevaj" id="1524" />
+      <edge source="charleneguignard" target="xam_trankov" id="1525" />
+      <edge source="charleneguignard" target="dimakozlovski" id="1526" />
+      <edge source="charleneguignard" target="tessavirtue17" id="1527" />
+      <edge source="charleneguignard" target="nathanwchen" id="1528" />
+      <edge source="charleneguignard" target="ilia_quadg0d_malinin" id="1529" />
+      <edge source="charleneguignard" target="nastya_gubanchik" id="1530" />
+      <edge source="charleneguignard" target="wenjingsui" id="1531" />
+      <edge source="charleneguignard" target="ivan_bukin_" id="1532" />
+      <edge source="charleneguignard" target="ekaterina_kurakova" id="1533" />
+      <edge source="charleneguignard" target="guillaume_cizeron" id="1534" />
+      <edge source="charleneguignard" target="berulava__luka" id="1535" />
+      <edge source="charleneguignard" target="wakababy_sk8r" id="1536" />
+      <edge source="charleneguignard" target="schluukas" id="1537" />
+      <edge source="charleneguignard" target="adam.siao" id="1538" />
+      <edge source="charleneguignard" target="metelkina_an" id="1539" />
+      <edge source="charleneguignard" target="tim.dieck" id="1540" />
+      <edge source="charleneguignard" target="loenahendrickx" id="1541" />
+      <edge source="charleneguignard" target="di__davis" id="1542" />
+      <edge source="charleneguignard" target="meaganduhamel" id="1543" />
+      <edge source="charleneguignard" target="madisonchock" id="1544" />
+      <edge source="charleneguignard" target="saraconti_00" id="1545" />
+      <edge source="charleneguignard" target="daniel.grassl_official" id="1546" />
+      <edge source="charleneguignard" target="pipergilles" id="1547" />
+      <edge source="charleneguignard" target="kevin_aymoz" id="1548" />
+      <edge source="charleneguignard" target="marcofabbri1988" id="1549" />
+      <edge source="charleneguignard" target="jasonbskates" id="1550" />
+      <edge source="charleneguignard" target="evan_bates" id="1551" />
+      <edge source="charleneguignard" target="ericradford85" id="1552" />
+      <edge source="charleneguignard" target="aleksandrastepanova" id="1553" />
+      <edge source="charleneguignard" target="pauldpoirier" id="1554" />
+      <edge source="charleneguignard" target="mskostner" id="1555" />
+      <edge source="avtrusova" target="ilia_quadg0d_malinin" id="1556" />
+      <edge source="avtrusova" target="azagitova" id="1557" />
+      <edge source="avtrusova" target="kamilavalieva26" id="1558" />
+      <edge source="avtrusova" target="anna__shcherbakova_" id="1559" />
+      <edge source="avtrusova" target="adeliya_petrosian" id="1560" />
+      <edge source="avtrusova" target="sofia_muraveva_" id="1561" />
+      <edge source="avtrusova" target="liza_tuktik" id="1562" />
+      <edge source="avtrusova" target="nikita_katsalapov" id="1563" />
+      <edge source="avtrusova" target="dmitry_aliev" id="1564" />
+      <edge source="avtrusova" target="ninety.ninth" id="1565" />
+      <edge source="avtrusova" target="_kaganovskay_14" id="1566" />
+      <edge source="avtrusova" target="aleksandraboikova" id="1567" />
+      <edge source="avtrusova" target="fire_bird" id="1568" />
+      <edge source="avtrusova" target="a_gallyam" id="1569" />
+      <edge source="avtrusova" target="victoria_sinitsina" id="1570" />
+      <edge source="avtrusova" target="aliona_officialnew" id="1571" />
+      <edge source="avtrusova" target="jmedvedevaj" id="1572" />
+      <edge source="avtrusova" target="nastia_ice" id="1573" />
+      <edge source="avtrusova" target="xam_trankov" id="1574" />
+      <edge source="avtrusova" target="dimakozlovski" id="1575" />
+      <edge source="avtrusova" target="tessavirtue17" id="1576" />
+      <edge source="avtrusova" target="nathanwchen" id="1577" />
+      <edge source="avtrusova" target="petr_og" id="1578" />
+      <edge source="avtrusova" target="nastya_gubanchik" id="1579" />
+      <edge source="avtrusova" target="sofyasamodelkina" id="1580" />
+      <edge source="avtrusova" target="ekaterina_kurakova" id="1581" />
+      <edge source="avtrusova" target="gabriellapapadakis" id="1582" />
+      <edge source="avtrusova" target="ivan_bukin_" id="1583" />
+      <edge source="avtrusova" target="glebsmolkin7" id="1584" />
+      <edge source="avtrusova" target="wakababy_sk8r" id="1585" />
+      <edge source="avtrusova" target="georgy_kunitsa13" id="1586" />
+      <edge source="avtrusova" target="denissvasiljevs" id="1587" />
+      <edge source="avtrusova" target="govincentzhou" id="1588" />
+      <edge source="avtrusova" target="evgeniy__semenenko" id="1589" />
+      <edge source="avtrusova" target="liza_nugumanova_" id="1590" />
+      <edge source="avtrusova" target="loenahendrickx" id="1591" />
+      <edge source="avtrusova" target="nika_egadze" id="1592" />
+      <edge source="avtrusova" target="daniel.grassl_official" id="1593" />
+      <edge source="avtrusova" target="aljonasavchenko" id="1594" />
+      <edge source="avtrusova" target="madisonchock" id="1595" />
+      <edge source="avtrusova" target="ericradford85" id="1596" />
+      <edge source="avtrusova" target="morozov_v92" id="1597" />
+      <edge source="avtrusova" target="javierfernandezskater" id="1598" />
+      <edge source="aliona_officialnew" target="azagitova" id="1599" />
+      <edge source="aliona_officialnew" target="kamilavalieva26" id="1600" />
+      <edge source="aliona_officialnew" target="avtrusova" id="1601" />
+      <edge source="aliona_officialnew" target="anna__shcherbakova_" id="1602" />
+      <edge source="aliona_officialnew" target="sofia_muraveva_" id="1603" />
+      <edge source="aliona_officialnew" target="liza_tuktik" id="1604" />
+      <edge source="aliona_officialnew" target="nikita_katsalapov" id="1605" />
+      <edge source="aliona_officialnew" target="dmitry_aliev" id="1606" />
+      <edge source="aliona_officialnew" target="ninety.ninth" id="1607" />
+      <edge source="aliona_officialnew" target="_kaganovskay_14" id="1608" />
+      <edge source="aliona_officialnew" target="aleksandraboikova" id="1609" />
+      <edge source="aliona_officialnew" target="a_gallyam" id="1610" />
+      <edge source="aliona_officialnew" target="victoria_sinitsina" id="1611" />
+      <edge source="aliona_officialnew" target="jmedvedevaj" id="1612" />
+      <edge source="aliona_officialnew" target="nastia_ice" id="1613" />
+      <edge source="aliona_officialnew" target="tessavirtue17" id="1614" />
+      <edge source="aliona_officialnew" target="nathanwchen" id="1615" />
+      <edge source="aliona_officialnew" target="ilia_quadg0d_malinin" id="1616" />
+      <edge source="aliona_officialnew" target="nastya_gubanchik" id="1617" />
+      <edge source="aliona_officialnew" target="glebsmolkin7" id="1618" />
+      <edge source="aliona_officialnew" target="wakababy_sk8r" id="1619" />
+      <edge source="nathanwchen" target="avtrusova" id="1620" />
+      <edge source="nathanwchen" target="nastia_ice" id="1621" />
+      <edge source="nathanwchen" target="anna__shcherbakova_" id="1622" />
+      <edge source="nathanwchen" target="dmitry_aliev" id="1623" />
+      <edge source="nathanwchen" target="liza_tuktik" id="1624" />
+      <edge source="nathanwchen" target="aleksandraboikova" id="1625" />
+      <edge source="nathanwchen" target="aliona_officialnew" id="1626" />
+      <edge source="nathanwchen" target="victoria_sinitsina" id="1627" />
+      <edge source="nathanwchen" target="jmedvedevaj" id="1628" />
+      <edge source="nathanwchen" target="dimakozlovski" id="1629" />
+      <edge source="nathanwchen" target="tessavirtue17" id="1630" />
+      <edge source="nathanwchen" target="ilia_quadg0d_malinin" id="1631" />
+      <edge source="nathanwchen" target="yuma_kagiyama15" id="1632" />
+      <edge source="nathanwchen" target="sofyasamodelkina" id="1633" />
+      <edge source="nathanwchen" target="thelilahjoshow" id="1634" />
+      <edge source="nathanwchen" target="petrykinaniina" id="1635" />
+      <edge source="nathanwchen" target="happy_haein05" id="1636" />
+      <edge source="nathanwchen" target="wakababy_sk8r" id="1637" />
+      <edge source="nathanwchen" target="rikaskate0721" id="1638" />
+      <edge source="nathanwchen" target="nastya_gubanchik" id="1639" />
+      <edge source="nathanwchen" target="petr_og" id="1640" />
+      <edge source="nathanwchen" target="isabeau.levito" id="1641" />
+      <edge source="nathanwchen" target="ekaterina_kurakova" id="1642" />
+      <edge source="nathanwchen" target="guillaume_cizeron" id="1643" />
+      <edge source="nathanwchen" target="moriskvit" id="1644" />
+      <edge source="nathanwchen" target="alysaxliu" id="1645" />
+      <edge source="nathanwchen" target="loenahendrickx" id="1646" />
+      <edge source="nathanwchen" target="mikhail_shaidorov" id="1647" />
+      <edge source="javierfernandezskater" target="azagitova" id="1648" />
+      <edge source="javierfernandezskater" target="avtrusova" id="1649" />
+      <edge source="javierfernandezskater" target="anna__shcherbakova_" id="1650" />
+      <edge source="javierfernandezskater" target="adeliya_petrosian" id="1651" />
+      <edge source="javierfernandezskater" target="liza_tuktik" id="1652" />
+      <edge source="javierfernandezskater" target="nikita_katsalapov" id="1653" />
+      <edge source="javierfernandezskater" target="aliona_officialnew" id="1654" />
+      <edge source="javierfernandezskater" target="victoria_sinitsina" id="1655" />
+      <edge source="javierfernandezskater" target="fire_bird" id="1656" />
+      <edge source="javierfernandezskater" target="jmedvedevaj" id="1657" />
+      <edge source="javierfernandezskater" target="xam_trankov" id="1658" />
+      <edge source="javierfernandezskater" target="tessavirtue17" id="1659" />
+      <edge source="javierfernandezskater" target="nathanwchen" id="1660" />
+      <edge source="javierfernandezskater" target="yuzuruofficial_" id="1661" />
+      <edge source="javierfernandezskater" target="thelilahjoshow" id="1662" />
+      <edge source="javierfernandezskater" target="petrykinaniina" id="1663" />
+      <edge source="javierfernandezskater" target="ilia_quadg0d_malinin" id="1664" />
+      <edge source="javierfernandezskater" target="yuma_kagiyama15" id="1665" />
+      <edge source="javierfernandezskater" target="wakababy_sk8r" id="1666" />
+      <edge source="javierfernandezskater" target="sofyasamodelkina" id="1667" />
+      <edge source="javierfernandezskater" target="aleksandrselevko" id="1668" />
+      <edge source="javierfernandezskater" target="_tarasova_evg" id="1669" />
+      <edge source="javierfernandezskater" target="yunakim" id="1670" />
+      <edge source="javierfernandezskater" target="rikaskate0721" id="1671" />
+      <edge source="javierfernandezskater" target="nastya_gubanchik" id="1672" />
+      <edge source="javierfernandezskater" target="aleksandrastepanova" id="1673" />
+      <edge source="javierfernandezskater" target="isabeau.levito" id="1674" />
+      <edge source="javierfernandezskater" target="ekaterina_kurakova" id="1675" />
+      <edge source="javierfernandezskater" target="moriskvit" id="1676" />
+      <edge source="javierfernandezskater" target="gabriellapapadakis" id="1677" />
+      <edge source="javierfernandezskater" target="adam.siao" id="1678" />
+      <edge source="javierfernandezskater" target="mikhail_shaidorov" id="1679" />
+      <edge source="nastya_gubanchik" target="azagitova" id="1680" />
+      <edge source="nastya_gubanchik" target="kamilavalieva26" id="1681" />
+      <edge source="nastya_gubanchik" target="avtrusova" id="1682" />
+      <edge source="nastya_gubanchik" target="anna__shcherbakova_" id="1683" />
+      <edge source="nastya_gubanchik" target="sofia_muraveva_" id="1684" />
+      <edge source="nastya_gubanchik" target="liza_tuktik" id="1685" />
+      <edge source="nastya_gubanchik" target="nikita_katsalapov" id="1686" />
+      <edge source="nastya_gubanchik" target="dmitry_aliev" id="1687" />
+      <edge source="nastya_gubanchik" target="ninety.ninth" id="1688" />
+      <edge source="nastya_gubanchik" target="_kaganovskay_14" id="1689" />
+      <edge source="nastya_gubanchik" target="aleksandraboikova" id="1690" />
+      <edge source="nastya_gubanchik" target="a_gallyam" id="1691" />
+      <edge source="nastya_gubanchik" target="victoria_sinitsina" id="1692" />
+      <edge source="nastya_gubanchik" target="aliona_officialnew" id="1693" />
+      <edge source="nastya_gubanchik" target="jmedvedevaj" id="1694" />
+      <edge source="nastya_gubanchik" target="nastia_ice" id="1695" />
+      <edge source="nastya_gubanchik" target="dimakozlovski" id="1696" />
+      <edge source="nastya_gubanchik" target="tessavirtue17" id="1697" />
+      <edge source="nastya_gubanchik" target="nathanwchen" id="1698" />
+      <edge source="nastya_gubanchik" target="ilia_quadg0d_malinin" id="1699" />
+      <edge source="nastya_gubanchik" target="thelilahjoshow" id="1700" />
+      <edge source="nastya_gubanchik" target="sofyasamodelkina" id="1701" />
+      <edge source="nastya_gubanchik" target="wakababy_sk8r" id="1702" />
+      <edge source="nastya_gubanchik" target="minervahase" id="1703" />
+      <edge source="nastya_gubanchik" target="yuma_kagiyama15" id="1704" />
+      <edge source="nastya_gubanchik" target="maxim_nekrasov_" id="1705" />
+      <edge source="nastya_gubanchik" target="glebsmolkin7" id="1706" />
+      <edge source="nastya_gubanchik" target="gabriellapapadakis" id="1707" />
+      <edge source="nastya_gubanchik" target="alysaxliu" id="1708" />
+      <edge source="nastya_gubanchik" target="happy_haein05" id="1709" />
+      <edge source="nastya_gubanchik" target="pinzarrone_nina" id="1710" />
+      <edge source="nastya_gubanchik" target="rikaskate0721" id="1711" />
+      <edge source="gabriellapapadakis" target="nathanwchen" id="1712" />
+      <edge source="gabriellapapadakis" target="thelilahjoshow" id="1713" />
+      <edge source="gabriellapapadakis" target="ilia_quadg0d_malinin" id="1714" />
+      <edge source="gabriellapapadakis" target="minervahase" id="1715" />
+      <edge source="gabriellapapadakis" target="aleksandrselevko" id="1716" />
+      <edge source="gabriellapapadakis" target="wenjingsui" id="1717" />
+      <edge source="gabriellapapadakis" target="isabeau.levito" id="1718" />
+      <edge source="gabriellapapadakis" target="alysaxliu" id="1719" />
+      <edge source="gabriellapapadakis" target="adam.siao" id="1720" />
+      <edge source="han.cong" target="happy_haein05" id="1721" />
+      <edge source="han.cong" target="yunakim" id="1722" />
+      <edge source="han.cong" target="tessavirtue17" id="1723" />
+      <edge source="han.cong" target="nathanwchen" id="1724" />
+      <edge source="han.cong" target="guillaume_cizeron" id="1725" />
+      <edge source="han.cong" target="madisonchock" id="1726" />
+      <edge source="han.cong" target="jasonbskates" id="1727" />
+      <edge source="han.cong" target="scottmoir14" id="1728" />
+      <edge source="han.cong" target="ericradford85" id="1729" />
+      <edge source="han.cong" target="bruno_massot" id="1730" />
+      <edge source="han.cong" target="govincentzhou" id="1731" />
+      <edge source="han.cong" target="evan_bates" id="1732" />
+      <edge source="han.cong" target="pchan31" id="1733" />
+      <edge source="han.cong" target="javierfernandezskater" id="1734" />
+      <edge source="han.cong" target="alexshibutani" id="1735" />
+      <edge source="han.cong" target="maiashibutani" id="1736" />
+      <edge source="maiashibutani" target="wakababy_sk8r" id="1737" />
+      <edge source="maiashibutani" target="azagitova" id="1738" />
+      <edge source="maiashibutani" target="liza_tuktik" id="1739" />
+      <edge source="maiashibutani" target="fire_bird" id="1740" />
+      <edge source="maiashibutani" target="jmedvedevaj" id="1741" />
+      <edge source="maiashibutani" target="nathanwchen" id="1742" />
+      <edge source="maiashibutani" target="yuma_kagiyama15" id="1743" />
+      <edge source="maiashibutani" target="happy_haein05" id="1744" />
+      <edge source="maiashibutani" target="shoma_un0" id="1745" />
+      <edge source="maiashibutani" target="yunakim" id="1746" />
+      <edge source="maiashibutani" target="wenjingsui" id="1747" />
+      <edge source="maiashibutani" target="isabeau.levito" id="1748" />
+      <edge source="maiashibutani" target="charleneguignard" id="1749" />
+      <edge source="ekaterina_kurakova" target="avtrusova" id="1750" />
+      <edge source="ekaterina_kurakova" target="anna__shcherbakova_" id="1751" />
+      <edge source="ekaterina_kurakova" target="sofia_muraveva_" id="1752" />
+      <edge source="ekaterina_kurakova" target="liza_tuktik" id="1753" />
+      <edge source="ekaterina_kurakova" target="ninety.ninth" id="1754" />
+      <edge source="ekaterina_kurakova" target="_kaganovskay_14" id="1755" />
+      <edge source="ekaterina_kurakova" target="fire_bird" id="1756" />
+      <edge source="ekaterina_kurakova" target="aliona_officialnew" id="1757" />
+      <edge source="ekaterina_kurakova" target="jmedvedevaj" id="1758" />
+      <edge source="ekaterina_kurakova" target="xam_trankov" id="1759" />
+      <edge source="ekaterina_kurakova" target="nathanwchen" id="1760" />
+      <edge source="ekaterina_kurakova" target="petrykinaniina" id="1761" />
+      <edge source="ekaterina_kurakova" target="wakababy_sk8r" id="1762" />
+      <edge source="ekaterina_kurakova" target="pipergilles" id="1763" />
+      <edge source="ekaterina_kurakova" target="nastya_gubanchik" id="1764" />
+      <edge source="ekaterina_kurakova" target="happy_haein05" id="1765" />
+      <edge source="ekaterina_kurakova" target="aleksandrselevko" id="1766" />
+      <edge source="ekaterina_kurakova" target="yuma_kagiyama15" id="1767" />
+      <edge source="ekaterina_kurakova" target="berulava__luka" id="1768" />
+      <edge source="ekaterina_kurakova" target="nikolajmemola" id="1769" />
+      <edge source="ekaterina_kurakova" target="isabeau.levito" id="1770" />
+      <edge source="ekaterina_kurakova" target="schluukas" id="1771" />
+      <edge source="ekaterina_kurakova" target="adam.siao" id="1772" />
+      <edge source="ekaterina_kurakova" target="metelkina_an" id="1773" />
+      <edge source="ekaterina_kurakova" target="amberglenniceskater" id="1774" />
+      <edge source="ekaterina_kurakova" target="charleneguignard" id="1775" />
+      <edge source="ekaterina_kurakova" target="oliviasmartx" id="1776" />
+      <edge source="ekaterina_kurakova" target="kevin_aymoz" id="1777" />
+      <edge source="ekaterina_kurakova" target="aljonasavchenko" id="1778" />
+      <edge source="ekaterina_kurakova" target="moriskvit" id="1779" />
+      <edge source="ekaterina_kurakova" target="bruno_massot" id="1780" />
+      <edge source="ekaterina_kurakova" target="mskostner" id="1781" />
+      <edge source="ekaterina_kurakova" target="daniel.grassl_official" id="1782" />
+      <edge source="ekaterina_kurakova" target="jasonbskates" id="1783" />
+      <edge source="ekaterina_kurakova" target="denissvasiljevs" id="1784" />
+      <edge source="jun_july_august" target="ilia_quadg0d_malinin" id="1785" />
+      <edge source="jun_july_august" target="yuma_kagiyama15" id="1786" />
+      <edge source="jun_july_august" target="anna__shcherbakova_" id="1787" />
+      <edge source="jun_july_august" target="jmedvedevaj" id="1788" />
+      <edge source="jun_july_august" target="tessavirtue17" id="1789" />
+      <edge source="jun_july_august" target="nathanwchen" id="1790" />
+      <edge source="jun_july_august" target="sofyasamodelkina" id="1791" />
+      <edge source="jun_july_august" target="happy_haein05" id="1792" />
+      <edge source="jun_july_august" target="alysaxliu" id="1793" />
+      <edge source="jun_july_august" target="wakababy_sk8r" id="1794" />
+      <edge source="jun_july_august" target="yunakim" id="1795" />
+      <edge source="jun_july_august" target="rikaskate0721" id="1796" />
+      <edge source="jun_july_august" target="isabeau.levito" id="1797" />
+      <edge source="jun_july_august" target="guillaume_cizeron" id="1798" />
+      <edge source="jun_july_august" target="adam.siao" id="1799" />
+      <edge source="jun_july_august" target="loenahendrickx" id="1800" />
+      <edge source="jun_july_august" target="mikhail_shaidorov" id="1801" />
+      <edge source="jun_july_august" target="pipergilles" id="1802" />
+      <edge source="jun_july_august" target="madisonchock" id="1803" />
+      <edge source="jun_july_august" target="oliviasmartx" id="1804" />
+      <edge source="jun_july_august" target="scottmoir14" id="1805" />
+      <edge source="jun_july_august" target="daniel.grassl_official" id="1806" />
+      <edge source="jun_july_august" target="pauldpoirier" id="1807" />
+      <edge source="jun_july_august" target="kevin_aymoz" id="1808" />
+      <edge source="jun_july_august" target="jasonbskates" id="1809" />
+      <edge source="jun_july_august" target="maximedeschamps" id="1810" />
+      <edge source="jun_july_august" target="evan_bates" id="1811" />
+      <edge source="jun_july_august" target="javierfernandezskater" id="1812" />
+      <edge source="meaganduhamel" target="kamilavalieva26" id="1813" />
+      <edge source="meaganduhamel" target="azagitova" id="1814" />
+      <edge source="meaganduhamel" target="avtrusova" id="1815" />
+      <edge source="meaganduhamel" target="nastia_ice" id="1816" />
+      <edge source="meaganduhamel" target="anna__shcherbakova_" id="1817" />
+      <edge source="meaganduhamel" target="sofia_muraveva_" id="1818" />
+      <edge source="meaganduhamel" target="a_gallyam" id="1819" />
+      <edge source="meaganduhamel" target="liza_tuktik" id="1820" />
+      <edge source="meaganduhamel" target="aleksandraboikova" id="1821" />
+      <edge source="meaganduhamel" target="aliona_officialnew" id="1822" />
+      <edge source="meaganduhamel" target="fire_bird" id="1823" />
+      <edge source="meaganduhamel" target="jmedvedevaj" id="1824" />
+      <edge source="meaganduhamel" target="tessavirtue17" id="1825" />
+      <edge source="meaganduhamel" target="nathanwchen" id="1826" />
+      <edge source="meaganduhamel" target="kihara_ryuichi" id="1827" />
+      <edge source="meaganduhamel" target="ilia_quadg0d_malinin" id="1828" />
+      <edge source="meaganduhamel" target="wakababy_sk8r" id="1829" />
+      <edge source="meaganduhamel" target="riku9111" id="1830" />
+      <edge source="meaganduhamel" target="wenjingsui" id="1831" />
+      <edge source="meaganduhamel" target="alysaxliu" id="1832" />
+      <edge source="meaganduhamel" target="isabeau.levito" id="1833" />
+      <edge source="meaganduhamel" target="ekaterina_kurakova" id="1834" />
+      <edge source="meaganduhamel" target="_tarasova_evg" id="1835" />
+      <edge source="nikomacii" target="ilia_quadg0d_malinin" id="1836" />
+      <edge source="nikomacii" target="azagitova" id="1837" />
+      <edge source="nikomacii" target="liza_tuktik" id="1838" />
+      <edge source="nikomacii" target="xam_trankov" id="1839" />
+      <edge source="nikomacii" target="dimakozlovski" id="1840" />
+      <edge source="nikomacii" target="nathanwchen" id="1841" />
+      <edge source="nikomacii" target="berulava__luka" id="1842" />
+      <edge source="nikomacii" target="tim.dieck" id="1843" />
+      <edge source="nikomacii" target="schluukas" id="1844" />
+      <edge source="nikomacii" target="isabeau.levito" id="1845" />
+      <edge source="nikomacii" target="charleneguignard" id="1846" />
+      <edge source="nikomacii" target="nikolajmemola" id="1847" />
+      <edge source="aljonasavchenko" target="thelilahjoshow" id="1848" />
+      <edge source="aljonasavchenko" target="azagitova" id="1849" />
+      <edge source="aljonasavchenko" target="avtrusova" id="1850" />
+      <edge source="aljonasavchenko" target="nastia_ice" id="1851" />
+      <edge source="aljonasavchenko" target="anna__shcherbakova_" id="1852" />
+      <edge source="aljonasavchenko" target="liza_tuktik" id="1853" />
+      <edge source="aljonasavchenko" target="aliona_officialnew" id="1854" />
+      <edge source="aljonasavchenko" target="_kaganovskay_14" id="1855" />
+      <edge source="aljonasavchenko" target="jmedvedevaj" id="1856" />
+      <edge source="aljonasavchenko" target="xam_trankov" id="1857" />
+      <edge source="aljonasavchenko" target="tessavirtue17" id="1858" />
+      <edge source="aljonasavchenko" target="nathanwchen" id="1859" />
+      <edge source="aljonasavchenko" target="ilia_quadg0d_malinin" id="1860" />
+      <edge source="aljonasavchenko" target="yuma_kagiyama15" id="1861" />
+      <edge source="aljonasavchenko" target="minervahase" id="1862" />
+      <edge source="aljonasavchenko" target="nastya_gubanchik" id="1863" />
+      <edge source="aljonasavchenko" target="pinzarrone_nina" id="1864" />
+      <edge source="aljonasavchenko" target="wakababy_sk8r" id="1865" />
+      <edge source="aljonasavchenko" target="aleksandrselevko" id="1866" />
+      <edge source="denissvasiljevs" target="wakababy_sk8r" id="1867" />
+      <edge source="denissvasiljevs" target="dmitry_aliev" id="1868" />
+      <edge source="denissvasiljevs" target="liza_tuktik" id="1869" />
+      <edge source="denissvasiljevs" target="fire_bird" id="1870" />
+      <edge source="denissvasiljevs" target="jmedvedevaj" id="1871" />
+      <edge source="denissvasiljevs" target="xam_trankov" id="1872" />
+      <edge source="denissvasiljevs" target="tessavirtue17" id="1873" />
+      <edge source="denissvasiljevs" target="rikaskate0721" id="1874" />
+      <edge source="denissvasiljevs" target="pipergilles" id="1875" />
+      <edge source="denissvasiljevs" target="isabeau.levito" id="1876" />
+      <edge source="denissvasiljevs" target="gabriellapapadakis" id="1877" />
+      <edge source="denissvasiljevs" target="mikhail_kolyada" id="1878" />
+      <edge source="denissvasiljevs" target="pauldpoirier" id="1879" />
+      <edge source="denissvasiljevs" target="jasonbskates" id="1880" />
+      <edge source="denissvasiljevs" target="mskostner" id="1881" />
+      <edge source="denissvasiljevs" target="javierfernandezskater" id="1882" />
+      <edge source="denissvasiljevs" target="maiashibutani" id="1883" />
+      <edge source="denissvasiljevs" target="alexshibutani" id="1884" />
+      <edge source="scottmoir14" target="tessavirtue17" id="1885" />
+      <edge source="scottmoir14" target="ericradford85" id="1886" />
+      <edge source="scottmoir14" target="pchan31" id="1887" />
+      <edge source="scottmoir14" target="javierfernandezskater" id="1888" />
+      <edge source="isabeau.levito" target="gabriellapapadakis" id="1889" />
+      <edge source="isabeau.levito" target="sofia_muraveva_" id="1890" />
+      <edge source="isabeau.levito" target="liza_tuktik" id="1891" />
+      <edge source="isabeau.levito" target="aliona_officialnew" id="1892" />
+      <edge source="isabeau.levito" target="jmedvedevaj" id="1893" />
+      <edge source="isabeau.levito" target="nathanwchen" id="1894" />
+      <edge source="isabeau.levito" target="kihara_ryuichi" id="1895" />
+      <edge source="isabeau.levito" target="ilia_quadg0d_malinin" id="1896" />
+      <edge source="isabeau.levito" target="sofyasamodelkina" id="1897" />
+      <edge source="isabeau.levito" target="ekaterina_kurakova" id="1898" />
+      <edge source="isabeau.levito" target="minervahase" id="1899" />
+      <edge source="isabeau.levito" target="nastya_gubanchik" id="1900" />
+      <edge source="isabeau.levito" target="shoma_un0" id="1901" />
+      <edge source="isabeau.levito" target="happy_haein05" id="1902" />
+      <edge source="isabeau.levito" target="rikaskate0721" id="1903" />
+      <edge source="isabeau.levito" target="alysaxliu" id="1904" />
+      <edge source="isabeau.levito" target="aleksandrselevko" id="1905" />
+      <edge source="isabeau.levito" target="petrykinaniina" id="1906" />
+      <edge source="isabeau.levito" target="yuma_kagiyama15" id="1907" />
+      <edge source="isabeau.levito" target="loenahendrickx" id="1908" />
+      <edge source="isabeau.levito" target="pinzarrone_nina" id="1909" />
+      <edge source="isabeau.levito" target="yunakim" id="1910" />
+      <edge source="isabeau.levito" target="pipergilles" id="1911" />
+      <edge source="isabeau.levito" target="riku9111" id="1912" />
+      <edge source="isabeau.levito" target="nikolajmemola" id="1913" />
+      <edge source="isabeau.levito" target="di__davis" id="1914" />
+      <edge source="isabeau.levito" target="madisonchock" id="1915" />
+      <edge source="isabeau.levito" target="adam.siao" id="1916" />
+      <edge source="isabeau.levito" target="amberglenniceskater" id="1917" />
+      <edge source="isabeau.levito" target="oliviasmartx" id="1918" />
+      <edge source="isabeau.levito" target="saraconti_00" id="1919" />
+      <edge source="isabeau.levito" target="schluukas" id="1920" />
+      <edge source="isabeau.levito" target="pauldpoirier" id="1921" />
+      <edge source="isabeau.levito" target="_chaeyeon.kim" id="1922" />
+      <edge source="isabeau.levito" target="kevin_aymoz" id="1923" />
+      <edge source="isabeau.levito" target="nikomacii" id="1924" />
+      <edge source="isabeau.levito" target="charleneguignard" id="1925" />
+      <edge source="isabeau.levito" target="jasonbskates" id="1926" />
+      <edge source="isabeau.levito" target="moriskvit" id="1927" />
+      <edge source="isabeau.levito" target="govincentzhou" id="1928" />
+      <edge source="isabeau.levito" target="mskostner" id="1929" />
+      <edge source="isabeau.levito" target="daniel.grassl_official" id="1930" />
+      <edge source="isabeau.levito" target="evan_bates" id="1931" />
+      <edge source="isabeau.levito" target="denissvasiljevs" id="1932" />
+      <edge source="isabeau.levito" target="maximedeschamps" id="1933" />
+      <edge source="isabeau.levito" target="deannamsd622" id="1934" />
+      <edge source="isabeau.levito" target="javierfernandezskater" id="1935" />
+      <edge source="yuma_kagiyama15" target="kamilavalieva26" id="1936" />
+      <edge source="yuma_kagiyama15" target="anna__shcherbakova_" id="1937" />
+      <edge source="yuma_kagiyama15" target="ninety.ninth" id="1938" />
+      <edge source="yuma_kagiyama15" target="liza_tuktik" id="1939" />
+      <edge source="yuma_kagiyama15" target="nathanwchen" id="1940" />
+      <edge source="yuma_kagiyama15" target="yuzuruofficial_" id="1941" />
+      <edge source="yuma_kagiyama15" target="kihara_ryuichi" id="1942" />
+      <edge source="yuma_kagiyama15" target="ilia_quadg0d_malinin" id="1943" />
+      <edge source="yuma_kagiyama15" target="sofyasamodelkina" id="1944" />
+      <edge source="yuma_kagiyama15" target="aleksandrselevko" id="1945" />
+      <edge source="yuma_kagiyama15" target="happy_haein05" id="1946" />
+      <edge source="yuma_kagiyama15" target="shoma_un0" id="1947" />
+      <edge source="yuma_kagiyama15" target="rikaskate0721" id="1948" />
+      <edge source="yuma_kagiyama15" target="nastya_gubanchik" id="1949" />
+      <edge source="yuma_kagiyama15" target="riku9111" id="1950" />
+      <edge source="yuma_kagiyama15" target="schluukas" id="1951" />
+      <edge source="yuma_kagiyama15" target="isabeau.levito" id="1952" />
+      <edge source="yuma_kagiyama15" target="ekaterina_kurakova" id="1953" />
+      <edge source="guillaume_cizeron" target="nathanwchen" id="1954" />
+      <edge source="guillaume_cizeron" target="thelilahjoshow" id="1955" />
+      <edge source="guillaume_cizeron" target="ilia_quadg0d_malinin" id="1956" />
+      <edge source="guillaume_cizeron" target="wenjingsui" id="1957" />
+      <edge source="guillaume_cizeron" target="tim.dieck" id="1958" />
+      <edge source="guillaume_cizeron" target="pipergilles" id="1959" />
+      <edge source="guillaume_cizeron" target="charleneguignard" id="1960" />
+      <edge source="guillaume_cizeron" target="nikolajmemola" id="1961" />
+      <edge source="guillaume_cizeron" target="scottmoir14" id="1962" />
+      <edge source="guillaume_cizeron" target="oliviasmartx" id="1963" />
+      <edge source="guillaume_cizeron" target="madisonchock" id="1964" />
+      <edge source="guillaume_cizeron" target="kevin_aymoz" id="1965" />
+      <edge source="guillaume_cizeron" target="evan_bates" id="1966" />
+      <edge source="guillaume_cizeron" target="marcofabbri1988" id="1967" />
+      <edge source="guillaume_cizeron" target="ericradford85" id="1968" />
+      <edge source="guillaume_cizeron" target="denissvasiljevs" id="1969" />
+      <edge source="guillaume_cizeron" target="mskostner" id="1970" />
+      <edge source="guillaume_cizeron" target="lewisgibson4" id="1971" />
+      <edge source="guillaume_cizeron" target="aljonasavchenko" id="1972" />
+      <edge source="guillaume_cizeron" target="pchan31" id="1973" />
+      <edge source="guillaume_cizeron" target="javierfernandezskater" id="1974" />
+      <edge source="jasonbskates" target="thelilahjoshow" id="1975" />
+      <edge source="jasonbskates" target="azagitova" id="1976" />
+      <edge source="jasonbskates" target="avtrusova" id="1977" />
+      <edge source="jasonbskates" target="anna__shcherbakova_" id="1978" />
+      <edge source="jasonbskates" target="dmitry_aliev" id="1979" />
+      <edge source="jasonbskates" target="liza_tuktik" id="1980" />
+      <edge source="jasonbskates" target="aliona_officialnew" id="1981" />
+      <edge source="jasonbskates" target="victoria_sinitsina" id="1982" />
+      <edge source="jasonbskates" target="jmedvedevaj" id="1983" />
+      <edge source="jasonbskates" target="tessavirtue17" id="1984" />
+      <edge source="jasonbskates" target="nathanwchen" id="1985" />
+      <edge source="jasonbskates" target="ilia_quadg0d_malinin" id="1986" />
+      <edge source="jasonbskates" target="alysaxliu" id="1987" />
+      <edge source="jasonbskates" target="yuma_kagiyama15" id="1988" />
+      <edge source="jasonbskates" target="shoma_un0" id="1989" />
+      <edge source="jasonbskates" target="rikaskate0721" id="1990" />
+      <edge source="jasonbskates" target="nastya_gubanchik" id="1991" />
+      <edge source="jasonbskates" target="_tarasova_evg" id="1992" />
+      <edge source="jasonbskates" target="isabeau.levito" id="1993" />
+      <edge source="jasonbskates" target="ekaterina_kurakova" id="1994" />
+      <edge source="jasonbskates" target="berulava__luka" id="1995" />
+      <edge source="jasonbskates" target="gabriellapapadakis" id="1996" />
+      <edge source="jasonbskates" target="guillaume_cizeron" id="1997" />
+      <edge source="jasonbskates" target="pipergilles" id="1998" />
+      <edge source="jasonbskates" target="adam.siao" id="1999" />
+      <edge source="jasonbskates" target="jun_july_august" id="2000" />
+      <edge source="jasonbskates" target="mikhail_kolyada" id="2001" />
+      <edge source="jasonbskates" target="kiira_korpi" id="2002" />
+      <edge source="jasonbskates" target="meaganduhamel" id="2003" />
+      <edge source="jasonbskates" target="madisonchock" id="2004" />
+      <edge source="jasonbskates" target="daniel.grassl_official" id="2005" />
+      <edge source="jasonbskates" target="kevin_aymoz" id="2006" />
+      <edge source="jasonbskates" target="marcofabbri1988" id="2007" />
+      <edge source="jasonbskates" target="pauldpoirier" id="2008" />
+      <edge source="jasonbskates" target="ericradford85" id="2009" />
+      <edge source="jasonbskates" target="evan_bates" id="2010" />
+      <edge source="mskostner" target="ilia_quadg0d_malinin" id="2011" />
+      <edge source="mskostner" target="liza_tuktik" id="2012" />
+      <edge source="mskostner" target="fire_bird" id="2013" />
+      <edge source="mskostner" target="xam_trankov" id="2014" />
+      <edge source="mskostner" target="tessavirtue17" id="2015" />
+      <edge source="mskostner" target="nathanwchen" id="2016" />
+      <edge source="mskostner" target="gabriellapapadakis" id="2017" />
+      <edge source="mskostner" target="yuma_kagiyama15" id="2018" />
+      <edge source="mskostner" target="wenjingsui" id="2019" />
+      <edge source="mskostner" target="guillaume_cizeron" id="2020" />
+      <edge source="mskostner" target="kiira_korpi" id="2021" />
+      <edge source="mskostner" target="pchan31" id="2022" />
+      <edge source="mskostner" target="denissvasiljevs" id="2023" />
+      <edge source="dmitry_aliev" target="ilia_quadg0d_malinin" id="2024" />
+      <edge source="dmitry_aliev" target="kamilavalieva26" id="2025" />
+      <edge source="dmitry_aliev" target="avtrusova" id="2026" />
+      <edge source="dmitry_aliev" target="anna__shcherbakova_" id="2027" />
+      <edge source="dmitry_aliev" target="sofia_muraveva_" id="2028" />
+      <edge source="dmitry_aliev" target="adeliya_petrosian" id="2029" />
+      <edge source="dmitry_aliev" target="ninety.ninth" id="2030" />
+      <edge source="dmitry_aliev" target="a_gallyam" id="2031" />
+      <edge source="dmitry_aliev" target="liza_tuktik" id="2032" />
+      <edge source="dmitry_aliev" target="nikita_katsalapov" id="2033" />
+      <edge source="dmitry_aliev" target="aleksandraboikova" id="2034" />
+      <edge source="dmitry_aliev" target="aliona_officialnew" id="2035" />
+      <edge source="dmitry_aliev" target="victoria_sinitsina" id="2036" />
+      <edge source="dmitry_aliev" target="fire_bird" id="2037" />
+      <edge source="dmitry_aliev" target="jmedvedevaj" id="2038" />
+      <edge source="dmitry_aliev" target="xam_trankov" id="2039" />
+      <edge source="dmitry_aliev" target="dimakozlovski" id="2040" />
+      <edge source="dmitry_aliev" target="nathanwchen" id="2041" />
+      <edge source="dmitry_aliev" target="sofyasamodelkina" id="2042" />
+      <edge source="dmitry_aliev" target="glebsmolkin7" id="2043" />
+      <edge source="dmitry_aliev" target="_tarasova_evg" id="2044" />
+      <edge source="dmitry_aliev" target="nastya_gubanchik" id="2045" />
+      <edge source="dmitry_aliev" target="ivan_bukin_" id="2046" />
+      <edge source="dmitry_aliev" target="georgy_kunitsa13" id="2047" />
+      <edge source="dmitry_aliev" target="moriskvit" id="2048" />
+      <edge source="dmitry_aliev" target="adam.siao" id="2049" />
+      <edge source="dmitry_aliev" target="aleksandrastepanova" id="2050" />
+      <edge source="dmitry_aliev" target="evgeniy__semenenko" id="2051" />
+      <edge source="dmitry_aliev" target="morozov_v92" id="2052" />
+      <edge source="elizaveta_pasechnikkk" target="kamilavalieva26" id="2053" />
+      <edge source="elizaveta_pasechnikkk" target="azagitova" id="2054" />
+      <edge source="elizaveta_pasechnikkk" target="avtrusova" id="2055" />
+      <edge source="elizaveta_pasechnikkk" target="ninety.ninth" id="2056" />
+      <edge source="elizaveta_pasechnikkk" target="nikita_katsalapov" id="2057" />
+      <edge source="elizaveta_pasechnikkk" target="aleksandraboikova" id="2058" />
+      <edge source="elizaveta_pasechnikkk" target="_kaganovskay_14" id="2059" />
+      <edge source="elizaveta_pasechnikkk" target="victoria_sinitsina" id="2060" />
+      <edge source="elizaveta_pasechnikkk" target="jmedvedevaj" id="2061" />
+      <edge source="elizaveta_pasechnikkk" target="dimakozlovski" id="2062" />
+      <edge source="elizaveta_pasechnikkk" target="maxim_nekrasov_" id="2063" />
+      <edge source="elizaveta_pasechnikkk" target="ilia_quadg0d_malinin" id="2064" />
+      <edge source="elizaveta_pasechnikkk" target="di__davis" id="2065" />
+      <edge source="elizaveta_pasechnikkk" target="dariochirizano" id="2066" />
+      <edge source="elizaveta_pasechnikkk" target="georgy_kunitsa13" id="2067" />
+      <edge source="elizaveta_pasechnikkk" target="guillaume_cizeron" id="2068" />
+      <edge source="ninety.ninth" target="kamilavalieva26" id="2069" />
+      <edge source="ninety.ninth" target="azagitova" id="2070" />
+      <edge source="ninety.ninth" target="avtrusova" id="2071" />
+      <edge source="ninety.ninth" target="nastia_ice" id="2072" />
+      <edge source="ninety.ninth" target="anna__shcherbakova_" id="2073" />
+      <edge source="ninety.ninth" target="sofia_muraveva_" id="2074" />
+      <edge source="ninety.ninth" target="dmitry_aliev" id="2075" />
+      <edge source="ninety.ninth" target="a_gallyam" id="2076" />
+      <edge source="ninety.ninth" target="liza_tuktik" id="2077" />
+      <edge source="ninety.ninth" target="nikita_katsalapov" id="2078" />
+      <edge source="ninety.ninth" target="aleksandraboikova" id="2079" />
+      <edge source="ninety.ninth" target="aliona_officialnew" id="2080" />
+      <edge source="ninety.ninth" target="_kaganovskay_14" id="2081" />
+      <edge source="ninety.ninth" target="victoria_sinitsina" id="2082" />
+      <edge source="ninety.ninth" target="jmedvedevaj" id="2083" />
+      <edge source="ninety.ninth" target="xam_trankov" id="2084" />
+      <edge source="ninety.ninth" target="dimakozlovski" id="2085" />
+      <edge source="ninety.ninth" target="ilia_quadg0d_malinin" id="2086" />
+      <edge source="ninety.ninth" target="maxim_nekrasov_" id="2087" />
+      <edge source="ninety.ninth" target="sofyasamodelkina" id="2088" />
+      <edge source="ninety.ninth" target="aleksandrastepanova" id="2089" />
+      <edge source="ninety.ninth" target="nastya_gubanchik" id="2090" />
+      <edge source="ninety.ninth" target="ivan_bukin_" id="2091" />
+      <edge source="ninety.ninth" target="berulava__luka" id="2092" />
+      <edge source="ninety.ninth" target="di__davis" id="2093" />
+      <edge source="ninety.ninth" target="moriskvit" id="2094" />
+      <edge source="ninety.ninth" target="adam.siao" id="2095" />
+      <edge source="ninety.ninth" target="evgeniy__semenenko" id="2096" />
+      <edge source="ninety.ninth" target="nika_egadze" id="2097" />
+      <edge source="ninety.ninth" target="mikhail_kolyada" id="2098" />
+      <edge source="ninety.ninth" target="daniel.grassl_official" id="2099" />
+      <edge source="ninety.ninth" target="elizaveta_pasechnikkk" id="2100" />
+      <edge source="ninety.ninth" target="liza_nugumanova_" id="2101" />
+      <edge source="berulava__luka" target="anna__shcherbakova_" id="2102" />
+      <edge source="berulava__luka" target="adeliya_petrosian" id="2103" />
+      <edge source="berulava__luka" target="ninety.ninth" id="2104" />
+      <edge source="berulava__luka" target="_kaganovskay_14" id="2105" />
+      <edge source="berulava__luka" target="aleksandraboikova" id="2106" />
+      <edge source="berulava__luka" target="a_gallyam" id="2107" />
+      <edge source="berulava__luka" target="aliona_officialnew" id="2108" />
+      <edge source="berulava__luka" target="xam_trankov" id="2109" />
+      <edge source="berulava__luka" target="dimakozlovski" id="2110" />
+      <edge source="berulava__luka" target="ilia_quadg0d_malinin" id="2111" />
+      <edge source="berulava__luka" target="nikivolod2" id="2112" />
+      <edge source="berulava__luka" target="minervahase" id="2113" />
+      <edge source="berulava__luka" target="glebsmolkin7" id="2114" />
+      <edge source="berulava__luka" target="aleksandrselevko" id="2115" />
+      <edge source="berulava__luka" target="ekaterina_kurakova" id="2116" />
+      <edge source="berulava__luka" target="petrykinaniina" id="2117" />
+      <edge source="berulava__luka" target="di__davis" id="2118" />
+      <edge source="berulava__luka" target="tim.dieck" id="2119" />
+      <edge source="berulava__luka" target="metelkina_an" id="2120" />
+      <edge source="berulava__luka" target="schluukas" id="2121" />
+      <edge source="berulava__luka" target="nikolajmemola" id="2122" />
+      <edge source="berulava__luka" target="moriskvit" id="2123" />
+      <edge source="berulava__luka" target="adam.siao" id="2124" />
+      <edge source="berulava__luka" target="kevin_aymoz" id="2125" />
+      <edge source="berulava__luka" target="charleneguignard" id="2126" />
+      <edge source="berulava__luka" target="saraconti_00" id="2127" />
+      <edge source="berulava__luka" target="mikhail_shaidorov" id="2128" />
+      <edge source="berulava__luka" target="elizaveta_pasechnikkk" id="2129" />
+      <edge source="berulava__luka" target="daniel.grassl_official" id="2130" />
+      <edge source="berulava__luka" target="nikomacii" id="2131" />
+      <edge source="di__davis" target="avtrusova" id="2132" />
+      <edge source="di__davis" target="nastia_ice" id="2133" />
+      <edge source="di__davis" target="anna__shcherbakova_" id="2134" />
+      <edge source="di__davis" target="sofia_muraveva_" id="2135" />
+      <edge source="di__davis" target="adeliya_petrosian" id="2136" />
+      <edge source="di__davis" target="ninety.ninth" id="2137" />
+      <edge source="di__davis" target="dmitry_aliev" id="2138" />
+      <edge source="di__davis" target="a_gallyam" id="2139" />
+      <edge source="di__davis" target="aleksandraboikova" id="2140" />
+      <edge source="di__davis" target="aliona_officialnew" id="2141" />
+      <edge source="di__davis" target="fire_bird" id="2142" />
+      <edge source="di__davis" target="jmedvedevaj" id="2143" />
+      <edge source="di__davis" target="xam_trankov" id="2144" />
+      <edge source="di__davis" target="dimakozlovski" id="2145" />
+      <edge source="di__davis" target="tessavirtue17" id="2146" />
+      <edge source="di__davis" target="nathanwchen" id="2147" />
+      <edge source="di__davis" target="maxim_nekrasov_" id="2148" />
+      <edge source="di__davis" target="ilia_quadg0d_malinin" id="2149" />
+      <edge source="di__davis" target="sofyasamodelkina" id="2150" />
+      <edge source="di__davis" target="_vladislav_dikidzhi_" id="2151" />
+      <edge source="di__davis" target="aleksandrselevko" id="2152" />
+      <edge source="di__davis" target="nikivolod2" id="2153" />
+      <edge source="di__davis" target="happy_haein05" id="2154" />
+      <edge source="di__davis" target="thelilahjoshow" id="2155" />
+      <edge source="di__davis" target="alysaxliu" id="2156" />
+      <edge source="di__davis" target="nastya_gubanchik" id="2157" />
+      <edge source="di__davis" target="georgy_kunitsa13" id="2158" />
+      <edge source="di__davis" target="isabeau.levito" id="2159" />
+      <edge source="di__davis" target="gabriellapapadakis" id="2160" />
+      <edge source="di__davis" target="berulava__luka" id="2161" />
+      <edge source="di__davis" target="moriskvit" id="2162" />
+      <edge source="di__davis" target="metelkina_an" id="2163" />
+      <edge source="di__davis" target="_tarasova_evg" id="2164" />
+      <edge source="di__davis" target="evgeniy__semenenko" id="2165" />
+      <edge source="di__davis" target="adam.siao" id="2166" />
+      <edge source="di__davis" target="guillaume_cizeron" id="2167" />
+      <edge source="di__davis" target="tim.dieck" id="2168" />
+      <edge source="di__davis" target="mikhail_shaidorov" id="2169" />
+      <edge source="di__davis" target="jun_july_august" id="2170" />
+      <edge source="di__davis" target="schluukas" id="2171" />
+      <edge source="di__davis" target="nikolajmemola" id="2172" />
+      <edge source="di__davis" target="scottmoir14" id="2173" />
+      <edge source="di__davis" target="elizaveta_pasechnikkk" id="2174" />
+      <edge source="fire_bird" target="kamilavalieva26" id="2175" />
+      <edge source="fire_bird" target="azagitova" id="2176" />
+      <edge source="fire_bird" target="avtrusova" id="2177" />
+      <edge source="fire_bird" target="nastia_ice" id="2178" />
+      <edge source="fire_bird" target="anna__shcherbakova_" id="2179" />
+      <edge source="fire_bird" target="adeliya_petrosian" id="2180" />
+      <edge source="fire_bird" target="a_gallyam" id="2181" />
+      <edge source="fire_bird" target="liza_tuktik" id="2182" />
+      <edge source="fire_bird" target="aleksandraboikova" id="2183" />
+      <edge source="fire_bird" target="_kaganovskay_14" id="2184" />
+      <edge source="fire_bird" target="victoria_sinitsina" id="2185" />
+      <edge source="fire_bird" target="jmedvedevaj" id="2186" />
+      <edge source="fire_bird" target="xam_trankov" id="2187" />
+      <edge source="fire_bird" target="tessavirtue17" id="2188" />
+      <edge source="fire_bird" target="nathanwchen" id="2189" />
+      <edge source="fire_bird" target="ilia_quadg0d_malinin" id="2190" />
+      <edge source="fire_bird" target="wakababy_sk8r" id="2191" />
+      <edge source="fire_bird" target="wenjingsui" id="2192" />
+      <edge source="fire_bird" target="yunakim" id="2193" />
+      <edge source="fire_bird" target="aleksandrastepanova" id="2194" />
+      <edge source="fire_bird" target="ekaterina_kurakova" id="2195" />
+      <edge source="fire_bird" target="guillaume_cizeron" id="2196" />
+      <edge source="fire_bird" target="di__davis" id="2197" />
+      <edge source="fire_bird" target="_tarasova_evg" id="2198" />
+      <edge source="fire_bird" target="ivan_bukin_" id="2199" />
+      <edge source="fire_bird" target="moriskvit" id="2200" />
+      <edge source="fire_bird" target="kiira_korpi" id="2201" />
+      <edge source="happy_haein05" target="azagitova" id="2202" />
+      <edge source="happy_haein05" target="anna__shcherbakova_" id="2203" />
+      <edge source="happy_haein05" target="sofia_muraveva_" id="2204" />
+      <edge source="happy_haein05" target="nathanwchen" id="2205" />
+      <edge source="happy_haein05" target="ilia_quadg0d_malinin" id="2206" />
+      <edge source="happy_haein05" target="sofyasamodelkina" id="2207" />
+      <edge source="happy_haein05" target="minervahase" id="2208" />
+      <edge source="happy_haein05" target="nastya_gubanchik" id="2209" />
+      <edge source="happy_haein05" target="petrykinaniina" id="2210" />
+      <edge source="happy_haein05" target="pinzarrone_nina" id="2211" />
+      <edge source="happy_haein05" target="wakababy_sk8r" id="2212" />
+      <edge source="happy_haein05" target="glebsmolkin7" id="2213" />
+      <edge source="happy_haein05" target="shoma_un0" id="2214" />
+      <edge source="happy_haein05" target="aleksandrselevko" id="2215" />
+      <edge source="happy_haein05" target="berulava__luka" id="2216" />
+      <edge source="happy_haein05" target="isabeau.levito" id="2217" />
+      <edge source="happy_haein05" target="nikolajmemola" id="2218" />
+      <edge source="happy_haein05" target="yunakim" id="2219" />
+      <edge source="happy_haein05" target="ekaterina_kurakova" id="2220" />
+      <edge source="happy_haein05" target="evgeniy__semenenko" id="2221" />
+      <edge source="happy_haein05" target="tim.dieck" id="2222" />
+      <edge source="happy_haein05" target="loenahendrickx" id="2223" />
+      <edge source="lewisgibson4" target="a_gallyam" id="2224" />
+      <edge source="lewisgibson4" target="liza_tuktik" id="2225" />
+      <edge source="lewisgibson4" target="victoria_sinitsina" id="2226" />
+      <edge source="lewisgibson4" target="jmedvedevaj" id="2227" />
+      <edge source="lewisgibson4" target="xam_trankov" id="2228" />
+      <edge source="lewisgibson4" target="tessavirtue17" id="2229" />
+      <edge source="lewisgibson4" target="nathanwchen" id="2230" />
+      <edge source="lewisgibson4" target="ilia_quadg0d_malinin" id="2231" />
+      <edge source="lewisgibson4" target="minervahase" id="2232" />
+      <edge source="lewisgibson4" target="glebsmolkin7" id="2233" />
+      <edge source="lewisgibson4" target="aleksandrastepanova" id="2234" />
+      <edge source="lewisgibson4" target="nikivolod2" id="2235" />
+      <edge source="lewisgibson4" target="aleksandrselevko" id="2236" />
+      <edge source="lewisgibson4" target="happy_haein05" id="2237" />
+      <edge source="lewisgibson4" target="rikaskate0721" id="2238" />
+      <edge source="alysaxliu" target="liza_tuktik" id="2239" />
+      <edge source="alysaxliu" target="aliona_officialnew" id="2240" />
+      <edge source="alysaxliu" target="nathanwchen" id="2241" />
+      <edge source="alysaxliu" target="kihara_ryuichi" id="2242" />
+      <edge source="alysaxliu" target="gabriellapapadakis" id="2243" />
+      <edge source="alysaxliu" target="ilia_quadg0d_malinin" id="2244" />
+      <edge source="alysaxliu" target="sofyasamodelkina" id="2245" />
+      <edge source="alysaxliu" target="ekaterina_kurakova" id="2246" />
+      <edge source="alysaxliu" target="wakababy_sk8r" id="2247" />
+      <edge source="alysaxliu" target="happy_haein05" id="2248" />
+      <edge source="alysaxliu" target="rikaskate0721" id="2249" />
+      <edge source="alysaxliu" target="yuma_kagiyama15" id="2250" />
+      <edge source="alysaxliu" target="pinzarrone_nina" id="2251" />
+      <edge source="alysaxliu" target="yunakim" id="2252" />
+      <edge source="alysaxliu" target="kiira_korpi" id="2253" />
+      <edge source="alysaxliu" target="pipergilles" id="2254" />
+      <edge source="alysaxliu" target="riku9111" id="2255" />
+      <edge source="alysaxliu" target="nikolajmemola" id="2256" />
+      <edge source="alysaxliu" target="isabeau.levito" id="2257" />
+      <edge source="alysaxliu" target="madisonchock" id="2258" />
+      <edge source="alysaxliu" target="amberglenniceskater" id="2259" />
+      <edge source="alysaxliu" target="oliviasmartx" id="2260" />
+      <edge source="alysaxliu" target="_chaeyeon.kim" id="2261" />
+      <edge source="alysaxliu" target="kevin_aymoz" id="2262" />
+      <edge source="alysaxliu" target="govincentzhou" id="2263" />
+      <edge source="alysaxliu" target="daniel.grassl_official" id="2264" />
+      <edge source="bruno_massot" target="ilia_quadg0d_malinin" id="2265" />
+      <edge source="bruno_massot" target="nathanwchen" id="2266" />
+      <edge source="bruno_massot" target="kihara_ryuichi" id="2267" />
+      <edge source="bruno_massot" target="minervahase" id="2268" />
+      <edge source="bruno_massot" target="wakababy_sk8r" id="2269" />
+      <edge source="bruno_massot" target="yunakim" id="2270" />
+      <edge source="bruno_massot" target="ekaterina_kurakova" id="2271" />
+      <edge source="bruno_massot" target="guillaume_cizeron" id="2272" />
+      <edge source="bruno_massot" target="pipergilles" id="2273" />
+      <edge source="bruno_massot" target="schluukas" id="2274" />
+      <edge source="bruno_massot" target="riku9111" id="2275" />
+      <edge source="kevin_aymoz" target="dmitry_aliev" id="2276" />
+      <edge source="kevin_aymoz" target="victoria_sinitsina" id="2277" />
+      <edge source="kevin_aymoz" target="kihara_ryuichi" id="2278" />
+      <edge source="kevin_aymoz" target="ilia_quadg0d_malinin" id="2279" />
+      <edge source="kevin_aymoz" target="yuma_kagiyama15" id="2280" />
+      <edge source="kevin_aymoz" target="alysaxliu" id="2281" />
+      <edge source="kevin_aymoz" target="sofyasamodelkina" id="2282" />
+      <edge source="kevin_aymoz" target="wakababy_sk8r" id="2283" />
+      <edge source="kevin_aymoz" target="minervahase" id="2284" />
+      <edge source="kevin_aymoz" target="aleksandrselevko" id="2285" />
+      <edge source="kevin_aymoz" target="happy_haein05" id="2286" />
+      <edge source="kevin_aymoz" target="nikivolod2" id="2287" />
+      <edge source="kevin_aymoz" target="pinzarrone_nina" id="2288" />
+      <edge source="kevin_aymoz" target="rikaskate0721" id="2289" />
+      <edge source="kevin_aymoz" target="riku9111" id="2290" />
+      <edge source="kevin_aymoz" target="guillaume_cizeron" id="2291" />
+      <edge source="kevin_aymoz" target="moriskvit" id="2292" />
+      <edge source="kevin_aymoz" target="gabriellapapadakis" id="2293" />
+      <edge source="kevin_aymoz" target="adam.siao" id="2294" />
+      <edge source="kevin_aymoz" target="mikhail_shaidorov" id="2295" />
+      <edge source="jmedvedevaj" target="ilia_quadg0d_malinin" id="2296" />
+      <edge source="jmedvedevaj" target="azagitova" id="2297" />
+      <edge source="jmedvedevaj" target="kamilavalieva26" id="2298" />
+      <edge source="jmedvedevaj" target="avtrusova" id="2299" />
+      <edge source="jmedvedevaj" target="anna__shcherbakova_" id="2300" />
+      <edge source="jmedvedevaj" target="adeliya_petrosian" id="2301" />
+      <edge source="jmedvedevaj" target="sofia_muraveva_" id="2302" />
+      <edge source="jmedvedevaj" target="liza_tuktik" id="2303" />
+      <edge source="jmedvedevaj" target="nikita_katsalapov" id="2304" />
+      <edge source="jmedvedevaj" target="ninety.ninth" id="2305" />
+      <edge source="jmedvedevaj" target="_kaganovskay_14" id="2306" />
+      <edge source="jmedvedevaj" target="aleksandraboikova" id="2307" />
+      <edge source="jmedvedevaj" target="fire_bird" id="2308" />
+      <edge source="jmedvedevaj" target="a_gallyam" id="2309" />
+      <edge source="jmedvedevaj" target="victoria_sinitsina" id="2310" />
+      <edge source="jmedvedevaj" target="nastia_ice" id="2311" />
+      <edge source="jmedvedevaj" target="xam_trankov" id="2312" />
+      <edge source="jmedvedevaj" target="dimakozlovski" id="2313" />
+      <edge source="jmedvedevaj" target="tessavirtue17" id="2314" />
+      <edge source="jmedvedevaj" target="nathanwchen" id="2315" />
+      <edge source="jmedvedevaj" target="yunakim" id="2316" />
+      <edge source="jmedvedevaj" target="jun_july_august" id="2317" />
+      <edge source="jmedvedevaj" target="aleksandrastepanova" id="2318" />
+      <edge source="jmedvedevaj" target="kiira_korpi" id="2319" />
+      <edge source="jmedvedevaj" target="petrykinaniina" id="2320" />
+      <edge source="jmedvedevaj" target="isabeau.levito" id="2321" />
+      <edge source="jmedvedevaj" target="ekaterina_kurakova" id="2322" />
+      <edge source="jmedvedevaj" target="mikhail_kolyada" id="2323" />
+    </edges>
+  </graph>
+</gexf>
